@@ -3,7 +3,7 @@
 import sqlite3
 import xml.etree.ElementTree as XMLTree
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 
 from db_access import db_close, add_order, add_holder, add_license, add_service, add_ownership, add_lic_status_name
 from db_access import EMPTY_STATE
