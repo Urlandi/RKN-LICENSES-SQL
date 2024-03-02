@@ -125,7 +125,5 @@ def main():
     
     
 if __name__ == '__main__':
-    import cProfile
-
-    exit(cProfile.run('main()'))
+    exit(main())
     
