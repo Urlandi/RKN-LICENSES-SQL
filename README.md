@@ -1,0 +1,1 @@
+Конвертер [Реестра лицензий в области связи](https://rkn.gov.ru/opendata/7705846236-LicComm/) в SQLite

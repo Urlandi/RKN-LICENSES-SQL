@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:rkn="http://rsoc.ru/opendata/7705846236-LicComm" targetNamespace="http://rsoc.ru/opendata/7705846236-LicComm" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:element name="register">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="record" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Наименование лицензиата</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="ownership" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Организационно-правовая форма</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="name_short" type="xs:string" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Краткое наименование</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="name_brand" type="xs:string" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Фирменное наименование</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="addr_legal" type="xs:string" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Адрес места нахождения</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="inn" type="xs:string" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>ИНН лицензиата</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="ogrn" type="xs:string" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>ОГРН/ОГРНИП</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="licence_num" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Регистрационный номер лицензии</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="licence_num_old" type="xs:string" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Номер лицензии, присвоенный до 01.03.2022</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="lic_status_name" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Статус лицензии</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="date_start" type="xs:date">
+                                <xs:annotation>
+                                    <xs:documentation>День начала оказания услуг (не позднее)</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="date_end" type="xs:date">
+                                <xs:annotation>
+                                    <xs:documentation>Срок действия, до</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="date_service_start" type="xs:date" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>День начала оказания услуг (не позднее)</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="service_name" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Лицензируемый вид деятельности с указанием выполняемых работ, составляющих лицензируемый вид деятельности</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="territory" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Территория действия лицензии</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="registration" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Номер и дата лицензионного приказа о предоставлении лицензии</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="num" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="date" type="xs:date" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="reregistration" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Номер и дата приказа о переоформлении лицензии</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="num" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="date" type="xs:date" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="prolongation" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Номер и дата приказа о продлении срока действия лицензии</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="num" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="date" type="xs:date" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="suspension_resume" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Номер и дата приказа о приостановлении/возобновлении лицензии</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="num" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="date" type="xs:date" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="termination" minOccurs="0">
+                                <xs:annotation>
+                                    <xs:documentation>Номер и дата лицензионного приказа о прекращении действия лицензии</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="num" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="date" type="xs:date" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
