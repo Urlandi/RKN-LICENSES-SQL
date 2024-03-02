@@ -101,15 +101,15 @@ def main():
 
             date_start = None
             if lic_record['date_start'] is not None:
-                date_start = int(datetime.fromisoformat(lic_record['date_start']).timestamp())
+                date_start = int(datetime.strptime(lic_record['date_start'], '%Y-%m-%d').timestamp())
 
             date_end = None
             if lic_record['date_end'] is not None:
-                date_end = int(datetime.fromisoformat(lic_record['date_end']).timestamp())
+                date_end = int(datetime.strptime(lic_record['date_end'], '%Y-%m-%d').timestamp())
 
             date_service_start = None
             if lic_record['date_service_start'] is not None:
-                date_end = int(datetime.fromisoformat(lic_record['date_service_start']).timestamp())
+                date_service_start = int(datetime.strptime(lic_record['date_service_start'], '%Y-%m-%d').timestamp())
 
             add_license(db, holder,
                         lic_record['licence_num'],
