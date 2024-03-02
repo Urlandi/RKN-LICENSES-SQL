@@ -73,28 +73,28 @@ def main():
             registration = EMPTY_STATE
             if lic_record['registration'] is not None:
                 registration = add_order(db, lic_record['registration']['num'],
-                                         int(datetime.fromisoformat(
-                                             lic_record['registration']['date']).timestamp()))
+                                         int(datetime.strptime(
+                                             lic_record['registration']['date'], '%Y-%m-%d').timestamp()))
             reregistration = EMPTY_STATE
             if lic_record['reregistration'] is not None:
                 reregistration = add_order(db, lic_record['reregistration']['num'],
-                                           int(datetime.fromisoformat(
-                                               lic_record['reregistration']['date']).timestamp()))
+                                           int(datetime.strptime(
+                                               lic_record['reregistration']['date'], '%Y-%m-%d').timestamp()))
             prolongation = EMPTY_STATE
             if lic_record['prolongation'] is not None:
                 prolongation = add_order(db, lic_record['prolongation']['num'],
-                                         int(datetime.fromisoformat(
-                                             lic_record['prolongation']['date']).timestamp()))
+                                         int(datetime.strptime(
+                                             lic_record['prolongation']['date'], '%Y-%m-%d').timestamp()))
             suspend_resume = EMPTY_STATE
             if lic_record['suspension_resume'] is not None:
                 suspend_resume = add_order(db, lic_record['suspension_resume']['num'],
-                                           int(datetime.fromisoformat(
-                                               lic_record['suspension_resume']['date']).timestamp()))
+                                           int(datetime.strptime(
+                                               lic_record['suspension_resume']['date'], '%Y-%m-%d').timestamp()))
             termination = EMPTY_STATE
             if lic_record['termination'] is not None:
                 termination = add_order(db, lic_record['termination']['num'],
-                                        int(datetime.fromisoformat(
-                                            lic_record['termination']['date']).timestamp()))
+                                        int(datetime.strptime(
+                                            lic_record['termination']['date'], '%Y-%m-%d').timestamp()))
 
             holder = add_holder(db, lic_record['name'], ownership, lic_record['name_short'], lic_record['name_brand'],
                                 lic_record['addr_legal'], lic_record['inn'], lic_record['ogrn'])
