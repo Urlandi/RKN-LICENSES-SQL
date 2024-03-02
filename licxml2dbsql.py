@@ -12,7 +12,7 @@ from db_access import EMPTY_STATE
 DONE = 0
 STOP_AND_EXIT = 1
 
-XML_NAME = "data-20240129T0000-structure-20220708T0000.xml"
+XML_NAME = "data-20240302T0000-structure-20220708T0000.xml"
 # XML_NAME = "datatext.xml"
 DB_NAME = "LicComm.sqlite3"
 
@@ -74,42 +74,42 @@ def main():
             if lic_record['registration'] is not None:
                 registration = add_order(db, lic_record['registration']['num'],
                                          int(datetime.strptime(
-                                             lic_record['registration']['date'], '%Y-%m-%d').timestamp()))
+                                             lic_record['registration']['date'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp()))
             reregistration = EMPTY_STATE
             if lic_record['reregistration'] is not None:
                 reregistration = add_order(db, lic_record['reregistration']['num'],
                                            int(datetime.strptime(
-                                               lic_record['reregistration']['date'], '%Y-%m-%d').timestamp()))
+                                               lic_record['reregistration']['date'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp()))
             prolongation = EMPTY_STATE
             if lic_record['prolongation'] is not None:
                 prolongation = add_order(db, lic_record['prolongation']['num'],
                                          int(datetime.strptime(
-                                             lic_record['prolongation']['date'], '%Y-%m-%d').timestamp()))
+                                             lic_record['prolongation']['date'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp()))
             suspend_resume = EMPTY_STATE
             if lic_record['suspension_resume'] is not None:
                 suspend_resume = add_order(db, lic_record['suspension_resume']['num'],
                                            int(datetime.strptime(
-                                               lic_record['suspension_resume']['date'], '%Y-%m-%d').timestamp()))
+                                               lic_record['suspension_resume']['date'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp()))
             termination = EMPTY_STATE
             if lic_record['termination'] is not None:
                 termination = add_order(db, lic_record['termination']['num'],
                                         int(datetime.strptime(
-                                            lic_record['termination']['date'], '%Y-%m-%d').timestamp()))
+                                            lic_record['termination']['date'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp()))
 
             holder = add_holder(db, lic_record['name'], ownership, lic_record['name_short'], lic_record['name_brand'],
                                 lic_record['addr_legal'], lic_record['inn'], lic_record['ogrn'])
 
             date_start = None
             if lic_record['date_start'] is not None:
-                date_start = int(datetime.strptime(lic_record['date_start'], '%Y-%m-%d').timestamp())
+                date_start = int(datetime.strptime(lic_record['date_start'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp())
 
             date_end = None
             if lic_record['date_end'] is not None:
-                date_end = int(datetime.strptime(lic_record['date_end'], '%Y-%m-%d').timestamp())
+                date_end = int(datetime.strptime(lic_record['date_end'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp())
 
             date_service_start = None
             if lic_record['date_service_start'] is not None:
-                date_service_start = int(datetime.strptime(lic_record['date_service_start'], '%Y-%m-%d').timestamp())
+                date_service_start = int(datetime.strptime(lic_record['date_service_start'], '%Y-%m-%d').replace(tzinfo=timezone.utc).timestamp())
 
             add_license(db, holder,
                         lic_record['licence_num'],
