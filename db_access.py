@@ -346,3 +346,80 @@ def add_license(db, holder, license_num, license_old, lic_status_name, date_star
         return ERROR_STATE
 
     return SUCCESS_STATE
+
+
+def date_first(db):
+    if db is None:
+        return ERROR_STATE
+
+    db_query = "SELECT MIN(licenses.date_start,\
+    (SELECT MIN(orders.date) FROM orders WHERE orders.id > 0)) as first_date FROM\
+     licenses WHERE licenses.date_start ORDER BY first_date ASC LIMIT 1"
+
+    try:
+        db_cursor = db.cursor()
+        db_cursor.execute(db_query)
+
+        min_dates = db_cursor.fetchone()
+
+    except sqlite3.DatabaseError as e:
+        logging.critical("Database select error - {}".format(e))
+        return ERROR_STATE
+
+    if min_dates is None or len(min_dates) == 0:
+        return EMPTY_STATE
+
+    return min_dates[0]
+
+
+def history_licenses_summary(db, date_timestamp):
+    if db is None:
+        return ERROR_STATE
+
+    db_query = "SELECT count(licenses.license_num) FROM licenses WHERE (\
+    ((licenses.registration > 0 AND (SELECT orders.date FROM orders WHERE licenses.registration = orders.id) < ?) OR\
+    (licenses.registration = 0 AND licenses.date_start < ?)) AND\
+    ((licenses.termination > 0 AND (SELECT orders.date FROM orders WHERE licenses.termination = orders.id) >= ?) OR\
+    (licenses.termination = 0 AND licenses.date_end >=?))) LIMIT 1"
+
+    try:
+        db_cursor = db.cursor()
+        db_cursor.execute(db_query, (date_timestamp, date_timestamp, date_timestamp, date_timestamp,))
+
+        licenses_count = db_cursor.fetchone()
+
+    except sqlite3.DatabaseError as e:
+        logging.critical("Database select error - {}".format(e))
+        return ERROR_STATE
+
+    if licenses_count is None or len(licenses_count) == 0:
+        return EMPTY_STATE
+
+    return licenses_count[0]
+
+
+def history_licenses_service(db, date_timestamp):
+    if db is None:
+        return ERROR_STATE
+
+    db_query = "SELECT services.id, services.service_name, count(licenses.license_num) AS lic_count FROM licenses JOIN\
+    services ON licenses.service_name = services.id WHERE (\
+    ((licenses.registration > 0 AND (SELECT orders.date FROM orders WHERE licenses.registration = orders.id) < ?) OR\
+    (licenses.registration = 0 AND licenses.date_start < ?)) AND\
+    ((licenses.termination > 0 AND (SELECT orders.date FROM orders WHERE licenses.termination = orders.id) >= ?) OR\
+    (licenses.termination = 0 AND licenses.date_end >= ?))) GROUP BY services.id ORDER BY lic_count DESC"
+
+    try:
+        db_cursor = db.cursor()
+        db_cursor.execute(db_query, (date_timestamp, date_timestamp, date_timestamp, date_timestamp,))
+
+        licenses_count = db_cursor.fetchall()
+
+    except sqlite3.DatabaseError as e:
+        logging.critical("Database select error - {}".format(e))
+        return ERROR_STATE
+
+    if licenses_count is None or len(licenses_count) == 0:
+        return EMPTY_STATE
+
+    return licenses_count
