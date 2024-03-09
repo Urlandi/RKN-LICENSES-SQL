@@ -17,6 +17,7 @@ def plot_licenses(db):
 
     stop_date = datetime.now(timezone.utc).replace(day=1)
 
+    prev_date = 0
     cur_date = start_date
     while cur_date <= stop_date:
         cur_timestamp = int(cur_date.timestamp())
@@ -27,6 +28,7 @@ def plot_licenses(db):
               format(cur_date.year, cur_date.month, cur_date.day,
                      cur_timestamp, len(history_licenses_service(db, cur_timestamp))))
 
+        prev_date = cur_date
         cur_date = cur_date.replace(year=cur_date.year + cur_date.month // 12, month=cur_date.month % 12 + 1)
 
     return SUCCESS_STATE
