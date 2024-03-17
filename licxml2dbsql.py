@@ -129,7 +129,6 @@ def main():
                         lic_record['territory'],
                         registration, reregistration, prolongation, suspend_resume, termination)
 
-
     plot_licenses(db)
     db_close(db)
     return exit_status_code
