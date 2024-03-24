@@ -354,7 +354,7 @@ def date_first(db):
 
     db_query = "SELECT MIN(licenses.date_start,\
     (SELECT MIN(orders.date) FROM orders WHERE orders.id > 0)) as first_date FROM\
-     licenses WHERE licenses.date_start ORDER BY first_date ASC LIMIT 1"
+     licenses WHERE licenses.date_start > 0 ORDER BY first_date ASC LIMIT 1"
 
     try:
         db_cursor = db.cursor()
@@ -407,7 +407,7 @@ def history_licenses_service(db, date_timestamp):
     ((licenses.registration > 0 AND (SELECT orders.date FROM orders WHERE licenses.registration = orders.id) < ?) OR\
     (licenses.registration = 0 AND licenses.date_start < ?)) AND\
     ((licenses.termination > 0 AND (SELECT orders.date FROM orders WHERE licenses.termination = orders.id) >= ?) OR\
-    (licenses.termination = 0 AND licenses.date_end >= ?))) GROUP BY services.id"
+    (licenses.termination = 0 AND licenses.date_end >= ?))) AND licenses.id > 0 GROUP BY services.id"
 
     try:
         db_cursor = db.cursor()
