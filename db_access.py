@@ -372,6 +372,28 @@ def date_first(db):
     return min_dates[0]
 
 
+def date_order_first(db):
+    if db is None:
+        return ERROR_STATE
+
+    db_query = "SELECT MIN(orders.date) as first_date FROM orders WHERE orders.id > 0 ORDER BY first_date ASC LIMIT 1"
+
+    try:
+        db_cursor = db.cursor()
+        db_cursor.execute(db_query)
+
+        min_dates = db_cursor.fetchone()
+
+    except sqlite3.DatabaseError as e:
+        logging.critical("Database select error - {}".format(e))
+        return ERROR_STATE
+
+    if min_dates is None or len(min_dates) == 0:
+        return EMPTY_STATE
+
+    return min_dates[0]
+
+
 def history_licenses_summary(db, date_timestamp):
     if db is None:
         return ERROR_STATE
@@ -553,6 +575,33 @@ def history_synholders_summary(db, date_timestamp, service_name_1, service_name_
         db_cursor = db.cursor()
         db_cursor.execute(db_query, (service_name_1, date_timestamp, date_timestamp, date_timestamp, date_timestamp,
                                      service_name_2, date_timestamp, date_timestamp, date_timestamp, date_timestamp,))
+
+        licenses_count = db_cursor.fetchone()
+
+    except sqlite3.DatabaseError as e:
+        logging.critical("Database select error - {}".format(e))
+        return ERROR_STATE
+
+    if licenses_count is None or len(licenses_count) == 0:
+        return EMPTY_STATE
+
+    return licenses_count[0]
+
+
+def history_nextlicenses_summary(db, date_timestamp, date_last_timestamp):
+    if db is None:
+        return ERROR_STATE
+
+    db_query = "SELECT count(licenses.license_num) FROM licenses WHERE (\
+    (licenses.registration > 0 AND (SELECT orders.date FROM orders WHERE licenses.registration = orders.id) >= ? AND\
+    (SELECT orders.date FROM orders WHERE licenses.registration = orders.id) < ?) OR\
+    (licenses.registration = 0 AND licenses.date_start >= ? AND licenses.date_start < ?)) AND\
+     licenses.date_start > 0 AND licenses.date_service_start > 0 AND\
+     licenses.date_service_start - licenses.date_start > 31622400 LIMIT 1"
+
+    try:
+        db_cursor = db.cursor()
+        db_cursor.execute(db_query, (date_last_timestamp, date_timestamp, date_last_timestamp, date_timestamp,))
 
         licenses_count = db_cursor.fetchone()
 

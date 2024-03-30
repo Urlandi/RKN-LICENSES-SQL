@@ -4,11 +4,11 @@ from datetime import datetime, timezone
 from db_access import (date_first, history_licenses_summary, history_licenses_service,
                        history_newlicenses_summary, history_newlicenses_service,
                        history_holders_summary, history_holders_service,
-                       history_synholders_summary)
+                       history_synholders_summary, date_order_first, history_nextlicenses_summary)
 from db_access import ERROR_STATE, SUCCESS_STATE
 
 from matplotlib import pyplot, axes
-from matplotlib.ticker import IndexLocator, AutoMinorLocator
+from matplotlib.ticker import IndexLocator, AutoMinorLocator, NullLocator
 
 from textwrap import wrap
 
@@ -17,7 +17,8 @@ from rustat import ases
 
 
 def plot_licenses(db):
-    first_timestamp = date_first(db)
+    # first_timestamp = date_first(db)
+    first_timestamp = date_order_first(db)
 
     if first_timestamp is None:
         return ERROR_STATE
@@ -41,6 +42,7 @@ def plot_licenses(db):
 
     license_count = []
     newlicense_count = []
+    nextlicense_count = []
     holders_count = []
     synholders_count = []
     license_service_count = []
@@ -70,12 +72,16 @@ def plot_licenses(db):
         # print("Year: {}, Month: {}, Day: {}, Timestamp: {} -> Sync Holders: {}".
         #      format(cur_date.year, cur_date.month, cur_date.day,
         #             cur_timestamp, history_synholders_summary(db, cur_timestamp, 735, 698)))
+        print("Year: {}, Month: {}, Day: {}, Timestamp: {} -> Next Licenses: {}".
+              format(cur_date.year, cur_date.month, cur_date.day,
+                     cur_timestamp, history_nextlicenses_summary(db, cur_timestamp, prev_timestamp)))
 
         date_ticks.append(prev_date.strftime("%Y %b"))
-        license_count.append(history_licenses_summary(db,cur_timestamp))
-        newlicense_count.append(history_newlicenses_summary(db, cur_timestamp, prev_timestamp))
+        # license_count.append(history_licenses_summary(db,cur_timestamp))
+        # newlicense_count.append(history_newlicenses_summary(db, cur_timestamp, prev_timestamp))
         # holders_count.append(history_holders_summary(db, cur_timestamp))
         # synholders_count.append(history_synholders_summary(db, cur_timestamp, 735, 698))
+        nextlicense_count.append(history_nextlicenses_summary(db, cur_timestamp, prev_timestamp))
 
         # license_service_count.append(history_holders_service(db, cur_timestamp))
         # license_count.append(ases.pop(0))
@@ -93,16 +99,16 @@ def plot_licenses(db):
     xy.xaxis.set_minor_locator(AutoMinorLocator(4))
     xy.tick_params(axis='x', labelrotation=60)
 
-    pyplot.xlim(0, len(date_ticks))
-    pyplot.grid(linewidth=0.1)
+    # pyplot.xlim(0, len(date_ticks))
+    # pyplot.grid(linewidth=0.1)
     pyplot.xlabel("Дата")
-    pyplot.ylabel("Количество новых лицензий")
-    pyplot.title("Количество новых лицензий по месяцам")
+    pyplot.ylabel("Количество новых лицензий на будущее")
+    pyplot.title("Количество новых лицензий на будущее по месяцам")
 
-    pyplot.bar(date_ticks, newlicense_count, label="Новые лицензии")
-    xy_second = xy.twinx()
-    xy_second.plot(date_ticks, license_count, label="Всего лицензий", linewidth=0.5, color="red")
-    xy_second.set_ylabel("Всего лицензий")
+    pyplot.bar(date_ticks, nextlicense_count, label="Новые лицензии на будущее")
+    # xy_second = xy.twinx()
+    # xy_second.plot(date_ticks, license_count, label="Всего лицензий", linewidth=0.5, color="red")
+    # xy_second.set_ylabel("Всего лицензий")
 
     # last_license_service = sorted(license_service_count[-1], key=lambda e: e[2], reverse=True)
     # last_services_id, last_services_name, last_service_count = list(zip(*last_license_service))
@@ -119,16 +125,18 @@ def plot_licenses(db):
     # from numpy import arange
 
     # x_bars = arange(12)
-    # width_bars = 0.2
-    # pyplot.bar(x_bars+2*width_bars, newlicense_count[-12::], width=width_bars, label="Новые лицензии 2023")
-    # pyplot.bar(x_bars+width_bars, newlicense_count[-24:-12], width=width_bars, label="Новые лицензии 2022")
-    # pyplot.bar(x_bars, newlicense_count[-36:-24], width=width_bars, label="Новые лицензии 2021")
-    # pyplot.xticks(x_bars, date_ticks[-12::])
+    # pyplot.xlim(0, 12)
+    # xy.xaxis.set_minor_locator(NullLocator())
+    # width_bars = 0.3
+    # pyplot.bar(x_bars+2.5 * width_bars, newlicense_count[-12::], width=width_bars, label="Новые лицензии 2023")
+    # pyplot.bar(x_bars+1.5 * width_bars, newlicense_count[-24:-12], width=width_bars, label="Новые лицензии 2022")
+    # pyplot.bar(x_bars+width_bars/2, newlicense_count[-36:-24], width=width_bars, label="Новые лицензии 2021")
+    # pyplot.xticks(x_bars, list(map(lambda d: d[4:], date_ticks[-12::])))
 
     for t in xy.get_xticklabels():
         t.set_horizontalalignment('right')
 
     # pyplot.legend()
-    pyplot.savefig('newlicenses.png')
+    pyplot.savefig('nextlicenses.png')
     pyplot.show()
     return SUCCESS_STATE
