@@ -13,7 +13,7 @@ from data_plot import plot_licenses
 DONE = 0
 STOP_AND_EXIT = 1
 
-XML_NAME = "data-20240318T0000-structure-20220708T0000.xml"
+XML_NAME = "data-20240401T0000-structure-20220708T0000.xml"
 # XML_NAME = "datatext.xml"
 DB_NAME = "LicComm.sqlite3"
 

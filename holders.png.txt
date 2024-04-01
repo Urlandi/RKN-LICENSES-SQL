@@ -1,394 +1,395 @@
-Year: 1991, Month: 6, Day: 1, Timestamp: 675734400 -> Holders: 4
-Year: 1991, Month: 7, Day: 1, Timestamp: 678326400 -> Holders: 5
-Year: 1991, Month: 8, Day: 1, Timestamp: 681004800 -> Holders: 5
-Year: 1991, Month: 9, Day: 1, Timestamp: 683683200 -> Holders: 7
-Year: 1991, Month: 10, Day: 1, Timestamp: 686275200 -> Holders: 8
-Year: 1991, Month: 11, Day: 1, Timestamp: 688953600 -> Holders: 12
-Year: 1991, Month: 12, Day: 1, Timestamp: 691545600 -> Holders: 17
-Year: 1992, Month: 1, Day: 1, Timestamp: 694224000 -> Holders: 21
-Year: 1992, Month: 2, Day: 1, Timestamp: 696902400 -> Holders: 27
-Year: 1992, Month: 3, Day: 1, Timestamp: 699408000 -> Holders: 44
-Year: 1992, Month: 4, Day: 1, Timestamp: 702086400 -> Holders: 52
-Year: 1992, Month: 5, Day: 1, Timestamp: 704678400 -> Holders: 60
-Year: 1992, Month: 6, Day: 1, Timestamp: 707356800 -> Holders: 69
-Year: 1992, Month: 7, Day: 1, Timestamp: 709948800 -> Holders: 93
-Year: 1992, Month: 8, Day: 1, Timestamp: 712627200 -> Holders: 114
-Year: 1992, Month: 9, Day: 1, Timestamp: 715305600 -> Holders: 124
-Year: 1992, Month: 10, Day: 1, Timestamp: 717897600 -> Holders: 149
-Year: 1992, Month: 11, Day: 1, Timestamp: 720576000 -> Holders: 191
-Year: 1992, Month: 12, Day: 1, Timestamp: 723168000 -> Holders: 219
-Year: 1993, Month: 1, Day: 1, Timestamp: 725846400 -> Holders: 263
-Year: 1993, Month: 2, Day: 1, Timestamp: 728524800 -> Holders: 290
-Year: 1993, Month: 3, Day: 1, Timestamp: 730944000 -> Holders: 312
-Year: 1993, Month: 4, Day: 1, Timestamp: 733622400 -> Holders: 358
-Year: 1993, Month: 5, Day: 1, Timestamp: 736214400 -> Holders: 383
-Year: 1993, Month: 6, Day: 1, Timestamp: 738892800 -> Holders: 417
-Year: 1993, Month: 7, Day: 1, Timestamp: 741484800 -> Holders: 434
-Year: 1993, Month: 8, Day: 1, Timestamp: 744163200 -> Holders: 486
-Year: 1993, Month: 9, Day: 1, Timestamp: 746841600 -> Holders: 501
-Year: 1993, Month: 10, Day: 1, Timestamp: 749433600 -> Holders: 538
-Year: 1993, Month: 11, Day: 1, Timestamp: 752112000 -> Holders: 573
-Year: 1993, Month: 12, Day: 1, Timestamp: 754704000 -> Holders: 605
-Year: 1994, Month: 1, Day: 1, Timestamp: 757382400 -> Holders: 667
-Year: 1994, Month: 2, Day: 1, Timestamp: 760060800 -> Holders: 705
-Year: 1994, Month: 3, Day: 1, Timestamp: 762480000 -> Holders: 781
-Year: 1994, Month: 4, Day: 1, Timestamp: 765158400 -> Holders: 853
-Year: 1994, Month: 5, Day: 1, Timestamp: 767750400 -> Holders: 925
-Year: 1994, Month: 6, Day: 1, Timestamp: 770428800 -> Holders: 1001
-Year: 1994, Month: 7, Day: 1, Timestamp: 773020800 -> Holders: 1041
-Year: 1994, Month: 8, Day: 1, Timestamp: 775699200 -> Holders: 1154
-Year: 1994, Month: 9, Day: 1, Timestamp: 778377600 -> Holders: 1203
-Year: 1994, Month: 10, Day: 1, Timestamp: 780969600 -> Holders: 1250
-Year: 1994, Month: 11, Day: 1, Timestamp: 783648000 -> Holders: 1307
-Year: 1994, Month: 12, Day: 1, Timestamp: 786240000 -> Holders: 1360
-Year: 1995, Month: 1, Day: 1, Timestamp: 788918400 -> Holders: 1420
-Year: 1995, Month: 2, Day: 1, Timestamp: 791596800 -> Holders: 1480
-Year: 1995, Month: 3, Day: 1, Timestamp: 794016000 -> Holders: 1553
-Year: 1995, Month: 4, Day: 1, Timestamp: 796694400 -> Holders: 1601
-Year: 1995, Month: 5, Day: 1, Timestamp: 799286400 -> Holders: 1676
-Year: 1995, Month: 6, Day: 1, Timestamp: 801964800 -> Holders: 1730
-Year: 1995, Month: 7, Day: 1, Timestamp: 804556800 -> Holders: 1840
-Year: 1995, Month: 8, Day: 1, Timestamp: 807235200 -> Holders: 1891
-Year: 1995, Month: 9, Day: 1, Timestamp: 809913600 -> Holders: 1967
-Year: 1995, Month: 10, Day: 1, Timestamp: 812505600 -> Holders: 2076
-Year: 1995, Month: 11, Day: 1, Timestamp: 815184000 -> Holders: 2145
-Year: 1995, Month: 12, Day: 1, Timestamp: 817776000 -> Holders: 2245
-Year: 1996, Month: 1, Day: 1, Timestamp: 820454400 -> Holders: 2334
-Year: 1996, Month: 2, Day: 1, Timestamp: 823132800 -> Holders: 2500
-Year: 1996, Month: 3, Day: 1, Timestamp: 825638400 -> Holders: 2584
-Year: 1996, Month: 4, Day: 1, Timestamp: 828316800 -> Holders: 2673
-Year: 1996, Month: 5, Day: 1, Timestamp: 830908800 -> Holders: 2880
-Year: 1996, Month: 6, Day: 1, Timestamp: 833587200 -> Holders: 2976
-Year: 1996, Month: 7, Day: 1, Timestamp: 836179200 -> Holders: 3064
-Year: 1996, Month: 8, Day: 1, Timestamp: 838857600 -> Holders: 3153
-Year: 1996, Month: 9, Day: 1, Timestamp: 841536000 -> Holders: 3514
-Year: 1996, Month: 10, Day: 1, Timestamp: 844128000 -> Holders: 3570
-Year: 1996, Month: 11, Day: 1, Timestamp: 846806400 -> Holders: 3707
-Year: 1996, Month: 12, Day: 1, Timestamp: 849398400 -> Holders: 3937
-Year: 1997, Month: 1, Day: 1, Timestamp: 852076800 -> Holders: 4106
-Year: 1997, Month: 2, Day: 1, Timestamp: 854755200 -> Holders: 4328
-Year: 1997, Month: 3, Day: 1, Timestamp: 857174400 -> Holders: 4489
-Year: 1997, Month: 4, Day: 1, Timestamp: 859852800 -> Holders: 4850
-Year: 1997, Month: 5, Day: 1, Timestamp: 862444800 -> Holders: 5096
-Year: 1997, Month: 6, Day: 1, Timestamp: 865123200 -> Holders: 5299
-Year: 1997, Month: 7, Day: 1, Timestamp: 867715200 -> Holders: 5449
-Year: 1997, Month: 8, Day: 1, Timestamp: 870393600 -> Holders: 5469
-Year: 1997, Month: 9, Day: 1, Timestamp: 873072000 -> Holders: 5724
-Year: 1997, Month: 10, Day: 1, Timestamp: 875664000 -> Holders: 5925
-Year: 1997, Month: 11, Day: 1, Timestamp: 878342400 -> Holders: 6050
-Year: 1997, Month: 12, Day: 1, Timestamp: 880934400 -> Holders: 6182
-Year: 1998, Month: 1, Day: 1, Timestamp: 883612800 -> Holders: 6378
-Year: 1998, Month: 2, Day: 1, Timestamp: 886291200 -> Holders: 6460
-Year: 1998, Month: 3, Day: 1, Timestamp: 888710400 -> Holders: 6591
-Year: 1998, Month: 4, Day: 1, Timestamp: 891388800 -> Holders: 6756
-Year: 1998, Month: 5, Day: 1, Timestamp: 893980800 -> Holders: 6924
-Year: 1998, Month: 6, Day: 1, Timestamp: 896659200 -> Holders: 7026
-Year: 1998, Month: 7, Day: 1, Timestamp: 899251200 -> Holders: 7153
-Year: 1998, Month: 8, Day: 1, Timestamp: 901929600 -> Holders: 7287
-Year: 1998, Month: 9, Day: 1, Timestamp: 904608000 -> Holders: 7399
-Year: 1998, Month: 10, Day: 1, Timestamp: 907200000 -> Holders: 7455
-Year: 1998, Month: 11, Day: 1, Timestamp: 909878400 -> Holders: 7571
-Year: 1998, Month: 12, Day: 1, Timestamp: 912470400 -> Holders: 7653
-Year: 1999, Month: 1, Day: 1, Timestamp: 915148800 -> Holders: 7675
-Year: 1999, Month: 2, Day: 1, Timestamp: 917827200 -> Holders: 7700
-Year: 1999, Month: 3, Day: 1, Timestamp: 920246400 -> Holders: 7834
-Year: 1999, Month: 4, Day: 1, Timestamp: 922924800 -> Holders: 7880
-Year: 1999, Month: 5, Day: 1, Timestamp: 925516800 -> Holders: 8079
-Year: 1999, Month: 6, Day: 1, Timestamp: 928195200 -> Holders: 8112
-Year: 1999, Month: 7, Day: 1, Timestamp: 930787200 -> Holders: 8218
-Year: 1999, Month: 8, Day: 1, Timestamp: 933465600 -> Holders: 8146
-Year: 1999, Month: 9, Day: 1, Timestamp: 936144000 -> Holders: 8248
-Year: 1999, Month: 10, Day: 1, Timestamp: 938736000 -> Holders: 8407
-Year: 1999, Month: 11, Day: 1, Timestamp: 941414400 -> Holders: 8376
-Year: 1999, Month: 12, Day: 1, Timestamp: 944006400 -> Holders: 8602
-Year: 2000, Month: 1, Day: 1, Timestamp: 946684800 -> Holders: 8677
-Year: 2000, Month: 2, Day: 1, Timestamp: 949363200 -> Holders: 8600
-Year: 2000, Month: 3, Day: 1, Timestamp: 951868800 -> Holders: 8538
-Year: 2000, Month: 4, Day: 1, Timestamp: 954547200 -> Holders: 8771
-Year: 2000, Month: 5, Day: 1, Timestamp: 957139200 -> Holders: 8915
-Year: 2000, Month: 6, Day: 1, Timestamp: 959817600 -> Holders: 8935
-Year: 2000, Month: 7, Day: 1, Timestamp: 962409600 -> Holders: 9005
-Year: 2000, Month: 8, Day: 1, Timestamp: 965088000 -> Holders: 9176
-Year: 2000, Month: 9, Day: 1, Timestamp: 967766400 -> Holders: 9149
-Year: 2000, Month: 10, Day: 1, Timestamp: 970358400 -> Holders: 9460
-Year: 2000, Month: 11, Day: 1, Timestamp: 973036800 -> Holders: 9573
-Year: 2000, Month: 12, Day: 1, Timestamp: 975628800 -> Holders: 9668
-Year: 2001, Month: 1, Day: 1, Timestamp: 978307200 -> Holders: 9778
-Year: 2001, Month: 2, Day: 1, Timestamp: 980985600 -> Holders: 9884
-Year: 2001, Month: 3, Day: 1, Timestamp: 983404800 -> Holders: 9964
-Year: 2001, Month: 4, Day: 1, Timestamp: 986083200 -> Holders: 10043
-Year: 2001, Month: 5, Day: 1, Timestamp: 988675200 -> Holders: 10259
-Year: 2001, Month: 6, Day: 1, Timestamp: 991353600 -> Holders: 10326
-Year: 2001, Month: 7, Day: 1, Timestamp: 993945600 -> Holders: 10419
-Year: 2001, Month: 8, Day: 1, Timestamp: 996624000 -> Holders: 10515
-Year: 2001, Month: 9, Day: 1, Timestamp: 999302400 -> Holders: 10627
-Year: 2001, Month: 10, Day: 1, Timestamp: 1001894400 -> Holders: 10722
-Year: 2001, Month: 11, Day: 1, Timestamp: 1004572800 -> Holders: 10855
-Year: 2001, Month: 12, Day: 1, Timestamp: 1007164800 -> Holders: 11040
-Year: 2002, Month: 1, Day: 1, Timestamp: 1009843200 -> Holders: 11207
-Year: 2002, Month: 2, Day: 1, Timestamp: 1012521600 -> Holders: 11218
-Year: 2002, Month: 3, Day: 1, Timestamp: 1014940800 -> Holders: 11322
-Year: 2002, Month: 4, Day: 1, Timestamp: 1017619200 -> Holders: 11518
-Year: 2002, Month: 5, Day: 1, Timestamp: 1020211200 -> Holders: 11756
-Year: 2002, Month: 6, Day: 1, Timestamp: 1022889600 -> Holders: 11799
-Year: 2002, Month: 7, Day: 1, Timestamp: 1025481600 -> Holders: 11924
-Year: 2002, Month: 8, Day: 1, Timestamp: 1028160000 -> Holders: 12041
-Year: 2002, Month: 9, Day: 1, Timestamp: 1030838400 -> Holders: 12283
-Year: 2002, Month: 10, Day: 1, Timestamp: 1033430400 -> Holders: 12350
-Year: 2002, Month: 11, Day: 1, Timestamp: 1036108800 -> Holders: 12512
-Year: 2002, Month: 12, Day: 1, Timestamp: 1038700800 -> Holders: 12605
-Year: 2003, Month: 1, Day: 1, Timestamp: 1041379200 -> Holders: 12762
-Year: 2003, Month: 2, Day: 1, Timestamp: 1044057600 -> Holders: 12800
-Year: 2003, Month: 3, Day: 1, Timestamp: 1046476800 -> Holders: 12937
-Year: 2003, Month: 4, Day: 1, Timestamp: 1049155200 -> Holders: 13024
-Year: 2003, Month: 5, Day: 1, Timestamp: 1051747200 -> Holders: 13313
-Year: 2003, Month: 6, Day: 1, Timestamp: 1054425600 -> Holders: 13465
-Year: 2003, Month: 7, Day: 1, Timestamp: 1057017600 -> Holders: 13626
-Year: 2003, Month: 8, Day: 1, Timestamp: 1059696000 -> Holders: 13662
-Year: 2003, Month: 9, Day: 1, Timestamp: 1062374400 -> Holders: 13830
-Year: 2003, Month: 10, Day: 1, Timestamp: 1064966400 -> Holders: 13967
-Year: 2003, Month: 11, Day: 1, Timestamp: 1067644800 -> Holders: 14266
-Year: 2003, Month: 12, Day: 1, Timestamp: 1070236800 -> Holders: 14372
-Year: 2004, Month: 1, Day: 1, Timestamp: 1072915200 -> Holders: 15125
-Year: 2004, Month: 2, Day: 1, Timestamp: 1075593600 -> Holders: 15011
-Year: 2004, Month: 3, Day: 1, Timestamp: 1078099200 -> Holders: 14938
-Year: 2004, Month: 4, Day: 1, Timestamp: 1080777600 -> Holders: 14915
-Year: 2004, Month: 5, Day: 1, Timestamp: 1083369600 -> Holders: 14843
-Year: 2004, Month: 6, Day: 1, Timestamp: 1086048000 -> Holders: 14787
-Year: 2004, Month: 7, Day: 1, Timestamp: 1088640000 -> Holders: 14731
-Year: 2004, Month: 8, Day: 1, Timestamp: 1091318400 -> Holders: 14700
-Year: 2004, Month: 9, Day: 1, Timestamp: 1093996800 -> Holders: 14648
-Year: 2004, Month: 10, Day: 1, Timestamp: 1096588800 -> Holders: 14566
-Year: 2004, Month: 11, Day: 1, Timestamp: 1099267200 -> Holders: 14516
-Year: 2004, Month: 12, Day: 1, Timestamp: 1101859200 -> Holders: 14416
-Year: 2005, Month: 1, Day: 1, Timestamp: 1104537600 -> Holders: 14336
-Year: 2005, Month: 2, Day: 1, Timestamp: 1107216000 -> Holders: 14311
-Year: 2005, Month: 3, Day: 1, Timestamp: 1109635200 -> Holders: 14295
-Year: 2005, Month: 4, Day: 1, Timestamp: 1112313600 -> Holders: 14207
-Year: 2005, Month: 5, Day: 1, Timestamp: 1114905600 -> Holders: 14173
-Year: 2005, Month: 6, Day: 1, Timestamp: 1117584000 -> Holders: 14259
-Year: 2005, Month: 7, Day: 1, Timestamp: 1120176000 -> Holders: 14341
-Year: 2005, Month: 8, Day: 1, Timestamp: 1122854400 -> Holders: 14539
-Year: 2005, Month: 9, Day: 1, Timestamp: 1125532800 -> Holders: 14660
-Year: 2005, Month: 10, Day: 1, Timestamp: 1128124800 -> Holders: 14767
-Year: 2005, Month: 11, Day: 1, Timestamp: 1130803200 -> Holders: 15189
-Year: 2005, Month: 12, Day: 1, Timestamp: 1133395200 -> Holders: 15303
-Year: 2006, Month: 1, Day: 1, Timestamp: 1136073600 -> Holders: 15713
-Year: 2006, Month: 2, Day: 1, Timestamp: 1138752000 -> Holders: 15816
-Year: 2006, Month: 3, Day: 1, Timestamp: 1141171200 -> Holders: 15903
-Year: 2006, Month: 4, Day: 1, Timestamp: 1143849600 -> Holders: 15972
-Year: 2006, Month: 5, Day: 1, Timestamp: 1146441600 -> Holders: 16084
-Year: 2006, Month: 6, Day: 1, Timestamp: 1149120000 -> Holders: 16125
-Year: 2006, Month: 7, Day: 1, Timestamp: 1151712000 -> Holders: 16169
-Year: 2006, Month: 8, Day: 1, Timestamp: 1154390400 -> Holders: 16378
-Year: 2006, Month: 9, Day: 1, Timestamp: 1157068800 -> Holders: 16407
-Year: 2006, Month: 10, Day: 1, Timestamp: 1159660800 -> Holders: 16425
-Year: 2006, Month: 11, Day: 1, Timestamp: 1162339200 -> Holders: 16427
-Year: 2006, Month: 12, Day: 1, Timestamp: 1164931200 -> Holders: 16358
-Year: 2007, Month: 1, Day: 1, Timestamp: 1167609600 -> Holders: 16294
-Year: 2007, Month: 2, Day: 1, Timestamp: 1170288000 -> Holders: 16282
-Year: 2007, Month: 3, Day: 1, Timestamp: 1172707200 -> Holders: 16260
-Year: 2007, Month: 4, Day: 1, Timestamp: 1175385600 -> Holders: 16356
-Year: 2007, Month: 5, Day: 1, Timestamp: 1177977600 -> Holders: 16186
-Year: 2007, Month: 6, Day: 1, Timestamp: 1180656000 -> Holders: 16391
-Year: 2007, Month: 7, Day: 1, Timestamp: 1183248000 -> Holders: 16592
-Year: 2007, Month: 8, Day: 1, Timestamp: 1185926400 -> Holders: 16518
-Year: 2007, Month: 9, Day: 1, Timestamp: 1188604800 -> Holders: 16511
-Year: 2007, Month: 10, Day: 1, Timestamp: 1191196800 -> Holders: 16529
-Year: 2007, Month: 11, Day: 1, Timestamp: 1193875200 -> Holders: 16695
-Year: 2007, Month: 12, Day: 1, Timestamp: 1196467200 -> Holders: 16805
-Year: 2008, Month: 1, Day: 1, Timestamp: 1199145600 -> Holders: 17120
-Year: 2008, Month: 2, Day: 1, Timestamp: 1201824000 -> Holders: 17105
-Year: 2008, Month: 3, Day: 1, Timestamp: 1204329600 -> Holders: 17279
-Year: 2008, Month: 4, Day: 1, Timestamp: 1207008000 -> Holders: 17414
-Year: 2008, Month: 5, Day: 1, Timestamp: 1209600000 -> Holders: 17487
-Year: 2008, Month: 6, Day: 1, Timestamp: 1212278400 -> Holders: 17757
-Year: 2008, Month: 7, Day: 1, Timestamp: 1214870400 -> Holders: 17841
-Year: 2008, Month: 8, Day: 1, Timestamp: 1217548800 -> Holders: 17746
-Year: 2008, Month: 9, Day: 1, Timestamp: 1220227200 -> Holders: 17771
-Year: 2008, Month: 10, Day: 1, Timestamp: 1222819200 -> Holders: 18339
-Year: 2008, Month: 11, Day: 1, Timestamp: 1225497600 -> Holders: 18353
-Year: 2008, Month: 12, Day: 1, Timestamp: 1228089600 -> Holders: 18606
-Year: 2009, Month: 1, Day: 1, Timestamp: 1230768000 -> Holders: 18663
-Year: 2009, Month: 2, Day: 1, Timestamp: 1233446400 -> Holders: 18809
-Year: 2009, Month: 3, Day: 1, Timestamp: 1235865600 -> Holders: 18909
-Year: 2009, Month: 4, Day: 1, Timestamp: 1238544000 -> Holders: 18997
-Year: 2009, Month: 5, Day: 1, Timestamp: 1241136000 -> Holders: 19283
-Year: 2009, Month: 6, Day: 1, Timestamp: 1243814400 -> Holders: 19419
-Year: 2009, Month: 7, Day: 1, Timestamp: 1246406400 -> Holders: 19591
-Year: 2009, Month: 8, Day: 1, Timestamp: 1249084800 -> Holders: 19779
-Year: 2009, Month: 9, Day: 1, Timestamp: 1251763200 -> Holders: 20147
-Year: 2009, Month: 10, Day: 1, Timestamp: 1254355200 -> Holders: 20429
-Year: 2009, Month: 11, Day: 1, Timestamp: 1257033600 -> Holders: 20581
-Year: 2009, Month: 12, Day: 1, Timestamp: 1259625600 -> Holders: 20783
-Year: 2010, Month: 1, Day: 1, Timestamp: 1262304000 -> Holders: 21145
-Year: 2010, Month: 2, Day: 1, Timestamp: 1264982400 -> Holders: 21262
-Year: 2010, Month: 3, Day: 1, Timestamp: 1267401600 -> Holders: 21255
-Year: 2010, Month: 4, Day: 1, Timestamp: 1270080000 -> Holders: 21451
-Year: 2010, Month: 5, Day: 1, Timestamp: 1272672000 -> Holders: 21721
-Year: 2010, Month: 6, Day: 1, Timestamp: 1275350400 -> Holders: 21771
-Year: 2010, Month: 7, Day: 1, Timestamp: 1277942400 -> Holders: 22001
-Year: 2010, Month: 8, Day: 1, Timestamp: 1280620800 -> Holders: 21850
-Year: 2010, Month: 9, Day: 1, Timestamp: 1283299200 -> Holders: 21951
-Year: 2010, Month: 10, Day: 1, Timestamp: 1285891200 -> Holders: 21971
-Year: 2010, Month: 11, Day: 1, Timestamp: 1288569600 -> Holders: 21891
-Year: 2010, Month: 12, Day: 1, Timestamp: 1291161600 -> Holders: 21807
-Year: 2011, Month: 1, Day: 1, Timestamp: 1293840000 -> Holders: 22098
-Year: 2011, Month: 2, Day: 1, Timestamp: 1296518400 -> Holders: 22139
-Year: 2011, Month: 3, Day: 1, Timestamp: 1298937600 -> Holders: 22142
-Year: 2011, Month: 4, Day: 1, Timestamp: 1301616000 -> Holders: 22314
-Year: 2011, Month: 5, Day: 1, Timestamp: 1304208000 -> Holders: 22108
-Year: 2011, Month: 6, Day: 1, Timestamp: 1306886400 -> Holders: 22473
-Year: 2011, Month: 7, Day: 1, Timestamp: 1309478400 -> Holders: 22260
-Year: 2011, Month: 8, Day: 1, Timestamp: 1312156800 -> Holders: 22377
-Year: 2011, Month: 9, Day: 1, Timestamp: 1314835200 -> Holders: 22264
-Year: 2011, Month: 10, Day: 1, Timestamp: 1317427200 -> Holders: 22412
-Year: 2011, Month: 11, Day: 1, Timestamp: 1320105600 -> Holders: 22320
-Year: 2011, Month: 12, Day: 1, Timestamp: 1322697600 -> Holders: 22385
-Year: 2012, Month: 1, Day: 1, Timestamp: 1325376000 -> Holders: 22344
-Year: 2012, Month: 2, Day: 1, Timestamp: 1328054400 -> Holders: 22390
-Year: 2012, Month: 3, Day: 1, Timestamp: 1330560000 -> Holders: 22426
-Year: 2012, Month: 4, Day: 1, Timestamp: 1333238400 -> Holders: 22353
-Year: 2012, Month: 5, Day: 1, Timestamp: 1335830400 -> Holders: 22340
-Year: 2012, Month: 6, Day: 1, Timestamp: 1338508800 -> Holders: 22365
-Year: 2012, Month: 7, Day: 1, Timestamp: 1341100800 -> Holders: 22269
-Year: 2012, Month: 8, Day: 1, Timestamp: 1343779200 -> Holders: 22339
-Year: 2012, Month: 9, Day: 1, Timestamp: 1346457600 -> Holders: 22417
-Year: 2012, Month: 10, Day: 1, Timestamp: 1349049600 -> Holders: 22272
-Year: 2012, Month: 11, Day: 1, Timestamp: 1351728000 -> Holders: 22267
-Year: 2012, Month: 12, Day: 1, Timestamp: 1354320000 -> Holders: 22359
-Year: 2013, Month: 1, Day: 1, Timestamp: 1356998400 -> Holders: 21993
-Year: 2013, Month: 2, Day: 1, Timestamp: 1359676800 -> Holders: 21951
-Year: 2013, Month: 3, Day: 1, Timestamp: 1362096000 -> Holders: 21886
-Year: 2013, Month: 4, Day: 1, Timestamp: 1364774400 -> Holders: 21839
-Year: 2013, Month: 5, Day: 1, Timestamp: 1367366400 -> Holders: 21734
-Year: 2013, Month: 6, Day: 1, Timestamp: 1370044800 -> Holders: 21490
-Year: 2013, Month: 7, Day: 1, Timestamp: 1372636800 -> Holders: 21420
-Year: 2013, Month: 8, Day: 1, Timestamp: 1375315200 -> Holders: 21548
-Year: 2013, Month: 9, Day: 1, Timestamp: 1377993600 -> Holders: 21479
-Year: 2013, Month: 10, Day: 1, Timestamp: 1380585600 -> Holders: 20936
-Year: 2013, Month: 11, Day: 1, Timestamp: 1383264000 -> Holders: 20696
-Year: 2013, Month: 12, Day: 1, Timestamp: 1385856000 -> Holders: 20632
-Year: 2014, Month: 1, Day: 1, Timestamp: 1388534400 -> Holders: 20301
-Year: 2014, Month: 2, Day: 1, Timestamp: 1391212800 -> Holders: 20226
-Year: 2014, Month: 3, Day: 1, Timestamp: 1393632000 -> Holders: 20164
-Year: 2014, Month: 4, Day: 1, Timestamp: 1396310400 -> Holders: 20162
-Year: 2014, Month: 5, Day: 1, Timestamp: 1398902400 -> Holders: 20148
-Year: 2014, Month: 6, Day: 1, Timestamp: 1401580800 -> Holders: 20134
-Year: 2014, Month: 7, Day: 1, Timestamp: 1404172800 -> Holders: 20223
-Year: 2014, Month: 8, Day: 1, Timestamp: 1406851200 -> Holders: 20206
-Year: 2014, Month: 9, Day: 1, Timestamp: 1409529600 -> Holders: 20127
-Year: 2014, Month: 10, Day: 1, Timestamp: 1412121600 -> Holders: 19845
-Year: 2014, Month: 11, Day: 1, Timestamp: 1414800000 -> Holders: 19870
-Year: 2014, Month: 12, Day: 1, Timestamp: 1417392000 -> Holders: 19902
-Year: 2015, Month: 1, Day: 1, Timestamp: 1420070400 -> Holders: 19830
-Year: 2015, Month: 2, Day: 1, Timestamp: 1422748800 -> Holders: 19836
-Year: 2015, Month: 3, Day: 1, Timestamp: 1425168000 -> Holders: 20013
-Year: 2015, Month: 4, Day: 1, Timestamp: 1427846400 -> Holders: 20094
-Year: 2015, Month: 5, Day: 1, Timestamp: 1430438400 -> Holders: 20052
-Year: 2015, Month: 6, Day: 1, Timestamp: 1433116800 -> Holders: 19947
-Year: 2015, Month: 7, Day: 1, Timestamp: 1435708800 -> Holders: 19935
-Year: 2015, Month: 8, Day: 1, Timestamp: 1438387200 -> Holders: 19931
-Year: 2015, Month: 9, Day: 1, Timestamp: 1441065600 -> Holders: 20018
-Year: 2015, Month: 10, Day: 1, Timestamp: 1443657600 -> Holders: 19744
-Year: 2015, Month: 11, Day: 1, Timestamp: 1446336000 -> Holders: 19724
-Year: 2015, Month: 12, Day: 1, Timestamp: 1448928000 -> Holders: 19743
-Year: 2016, Month: 1, Day: 1, Timestamp: 1451606400 -> Holders: 19356
-Year: 2016, Month: 2, Day: 1, Timestamp: 1454284800 -> Holders: 19195
-Year: 2016, Month: 3, Day: 1, Timestamp: 1456790400 -> Holders: 19218
-Year: 2016, Month: 4, Day: 1, Timestamp: 1459468800 -> Holders: 19132
-Year: 2016, Month: 5, Day: 1, Timestamp: 1462060800 -> Holders: 19280
-Year: 2016, Month: 6, Day: 1, Timestamp: 1464739200 -> Holders: 19151
-Year: 2016, Month: 7, Day: 1, Timestamp: 1467331200 -> Holders: 19147
-Year: 2016, Month: 8, Day: 1, Timestamp: 1470009600 -> Holders: 18991
-Year: 2016, Month: 9, Day: 1, Timestamp: 1472688000 -> Holders: 19022
-Year: 2016, Month: 10, Day: 1, Timestamp: 1475280000 -> Holders: 18870
-Year: 2016, Month: 11, Day: 1, Timestamp: 1477958400 -> Holders: 18726
-Year: 2016, Month: 12, Day: 1, Timestamp: 1480550400 -> Holders: 18632
-Year: 2017, Month: 1, Day: 1, Timestamp: 1483228800 -> Holders: 18551
-Year: 2017, Month: 2, Day: 1, Timestamp: 1485907200 -> Holders: 18530
-Year: 2017, Month: 3, Day: 1, Timestamp: 1488326400 -> Holders: 18528
-Year: 2017, Month: 4, Day: 1, Timestamp: 1491004800 -> Holders: 18263
-Year: 2017, Month: 5, Day: 1, Timestamp: 1493596800 -> Holders: 18405
-Year: 2017, Month: 6, Day: 1, Timestamp: 1496275200 -> Holders: 18249
-Year: 2017, Month: 7, Day: 1, Timestamp: 1498867200 -> Holders: 18163
-Year: 2017, Month: 8, Day: 1, Timestamp: 1501545600 -> Holders: 18286
-Year: 2017, Month: 9, Day: 1, Timestamp: 1504224000 -> Holders: 18338
-Year: 2017, Month: 10, Day: 1, Timestamp: 1506816000 -> Holders: 18334
-Year: 2017, Month: 11, Day: 1, Timestamp: 1509494400 -> Holders: 18289
-Year: 2017, Month: 12, Day: 1, Timestamp: 1512086400 -> Holders: 18231
-Year: 2018, Month: 1, Day: 1, Timestamp: 1514764800 -> Holders: 18062
-Year: 2018, Month: 2, Day: 1, Timestamp: 1517443200 -> Holders: 18003
-Year: 2018, Month: 3, Day: 1, Timestamp: 1519862400 -> Holders: 18061
-Year: 2018, Month: 4, Day: 1, Timestamp: 1522540800 -> Holders: 18022
-Year: 2018, Month: 5, Day: 1, Timestamp: 1525132800 -> Holders: 17992
-Year: 2018, Month: 6, Day: 1, Timestamp: 1527811200 -> Holders: 18038
-Year: 2018, Month: 7, Day: 1, Timestamp: 1530403200 -> Holders: 18042
-Year: 2018, Month: 8, Day: 1, Timestamp: 1533081600 -> Holders: 18133
-Year: 2018, Month: 9, Day: 1, Timestamp: 1535760000 -> Holders: 18037
-Year: 2018, Month: 10, Day: 1, Timestamp: 1538352000 -> Holders: 17903
-Year: 2018, Month: 11, Day: 1, Timestamp: 1541030400 -> Holders: 17894
-Year: 2018, Month: 12, Day: 1, Timestamp: 1543622400 -> Holders: 17900
-Year: 2019, Month: 1, Day: 1, Timestamp: 1546300800 -> Holders: 17730
-Year: 2019, Month: 2, Day: 1, Timestamp: 1548979200 -> Holders: 17660
-Year: 2019, Month: 3, Day: 1, Timestamp: 1551398400 -> Holders: 17688
-Year: 2019, Month: 4, Day: 1, Timestamp: 1554076800 -> Holders: 17701
-Year: 2019, Month: 5, Day: 1, Timestamp: 1556668800 -> Holders: 17549
-Year: 2019, Month: 6, Day: 1, Timestamp: 1559347200 -> Holders: 17535
-Year: 2019, Month: 7, Day: 1, Timestamp: 1561939200 -> Holders: 17505
-Year: 2019, Month: 8, Day: 1, Timestamp: 1564617600 -> Holders: 17460
-Year: 2019, Month: 9, Day: 1, Timestamp: 1567296000 -> Holders: 17322
-Year: 2019, Month: 10, Day: 1, Timestamp: 1569888000 -> Holders: 17200
-Year: 2019, Month: 11, Day: 1, Timestamp: 1572566400 -> Holders: 17271
-Year: 2019, Month: 12, Day: 1, Timestamp: 1575158400 -> Holders: 17055
-Year: 2020, Month: 1, Day: 1, Timestamp: 1577836800 -> Holders: 16931
-Year: 2020, Month: 2, Day: 1, Timestamp: 1580515200 -> Holders: 16890
-Year: 2020, Month: 3, Day: 1, Timestamp: 1583020800 -> Holders: 16884
-Year: 2020, Month: 4, Day: 1, Timestamp: 1585699200 -> Holders: 16736
-Year: 2020, Month: 5, Day: 1, Timestamp: 1588291200 -> Holders: 16728
-Year: 2020, Month: 6, Day: 1, Timestamp: 1590969600 -> Holders: 16667
-Year: 2020, Month: 7, Day: 1, Timestamp: 1593561600 -> Holders: 16595
-Year: 2020, Month: 8, Day: 1, Timestamp: 1596240000 -> Holders: 16364
-Year: 2020, Month: 9, Day: 1, Timestamp: 1598918400 -> Holders: 16343
-Year: 2020, Month: 10, Day: 1, Timestamp: 1601510400 -> Holders: 16361
-Year: 2020, Month: 11, Day: 1, Timestamp: 1604188800 -> Holders: 16351
-Year: 2020, Month: 12, Day: 1, Timestamp: 1606780800 -> Holders: 16448
-Year: 2021, Month: 1, Day: 1, Timestamp: 1609459200 -> Holders: 16468
-Year: 2021, Month: 2, Day: 1, Timestamp: 1612137600 -> Holders: 16285
-Year: 2021, Month: 3, Day: 1, Timestamp: 1614556800 -> Holders: 16017
-Year: 2021, Month: 4, Day: 1, Timestamp: 1617235200 -> Holders: 15748
-Year: 2021, Month: 5, Day: 1, Timestamp: 1619827200 -> Holders: 15449
-Year: 2021, Month: 6, Day: 1, Timestamp: 1622505600 -> Holders: 15221
-Year: 2021, Month: 7, Day: 1, Timestamp: 1625097600 -> Holders: 14998
-Year: 2021, Month: 8, Day: 1, Timestamp: 1627776000 -> Holders: 14726
-Year: 2021, Month: 9, Day: 1, Timestamp: 1630454400 -> Holders: 14491
-Year: 2021, Month: 10, Day: 1, Timestamp: 1633046400 -> Holders: 14317
-Year: 2021, Month: 11, Day: 1, Timestamp: 1635724800 -> Holders: 14129
-Year: 2021, Month: 12, Day: 1, Timestamp: 1638316800 -> Holders: 13899
-Year: 2022, Month: 1, Day: 1, Timestamp: 1640995200 -> Holders: 13518
-Year: 2022, Month: 2, Day: 1, Timestamp: 1643673600 -> Holders: 13387
-Year: 2022, Month: 3, Day: 1, Timestamp: 1646092800 -> Holders: 13224
-Year: 2022, Month: 4, Day: 1, Timestamp: 1648771200 -> Holders: 12996
-Year: 2022, Month: 5, Day: 1, Timestamp: 1651363200 -> Holders: 12862
-Year: 2022, Month: 6, Day: 1, Timestamp: 1654041600 -> Holders: 12728
-Year: 2022, Month: 7, Day: 1, Timestamp: 1656633600 -> Holders: 12504
-Year: 2022, Month: 8, Day: 1, Timestamp: 1659312000 -> Holders: 12408
-Year: 2022, Month: 9, Day: 1, Timestamp: 1661990400 -> Holders: 12237
-Year: 2022, Month: 10, Day: 1, Timestamp: 1664582400 -> Holders: 12154
-Year: 2022, Month: 11, Day: 1, Timestamp: 1667260800 -> Holders: 12133
-Year: 2022, Month: 12, Day: 1, Timestamp: 1669852800 -> Holders: 12049
-Year: 2023, Month: 1, Day: 1, Timestamp: 1672531200 -> Holders: 11931
-Year: 2023, Month: 2, Day: 1, Timestamp: 1675209600 -> Holders: 11812
-Year: 2023, Month: 3, Day: 1, Timestamp: 1677628800 -> Holders: 11697
-Year: 2023, Month: 4, Day: 1, Timestamp: 1680307200 -> Holders: 11539
-Year: 2023, Month: 5, Day: 1, Timestamp: 1682899200 -> Holders: 11422
-Year: 2023, Month: 6, Day: 1, Timestamp: 1685577600 -> Holders: 11337
-Year: 2023, Month: 7, Day: 1, Timestamp: 1688169600 -> Holders: 11190
-Year: 2023, Month: 8, Day: 1, Timestamp: 1690848000 -> Holders: 11105
-Year: 2023, Month: 9, Day: 1, Timestamp: 1693526400 -> Holders: 10027
-Year: 2023, Month: 10, Day: 1, Timestamp: 1696118400 -> Holders: 10034
-Year: 2023, Month: 11, Day: 1, Timestamp: 1698796800 -> Holders: 10030
-Year: 2023, Month: 12, Day: 1, Timestamp: 1701388800 -> Holders: 10051
-Year: 2024, Month: 1, Day: 1, Timestamp: 1704067200 -> Holders: 10167
-Year: 2024, Month: 2, Day: 1, Timestamp: 1706745600 -> Holders: 10220
-Year: 2024, Month: 3, Day: 1, Timestamp: 1709251200 -> Holders: 10161
+Year: 1991, Month: 6, Timestamp: 675734400 -> Holders: 4
+Year: 1991, Month: 7, Timestamp: 678326400 -> Holders: 5
+Year: 1991, Month: 8, Timestamp: 681004800 -> Holders: 5
+Year: 1991, Month: 9, Timestamp: 683683200 -> Holders: 7
+Year: 1991, Month: 10, Timestamp: 686275200 -> Holders: 8
+Year: 1991, Month: 11, Timestamp: 688953600 -> Holders: 12
+Year: 1991, Month: 12, Timestamp: 691545600 -> Holders: 17
+Year: 1992, Month: 1, Timestamp: 694224000 -> Holders: 21
+Year: 1992, Month: 2, Timestamp: 696902400 -> Holders: 27
+Year: 1992, Month: 3, Timestamp: 699408000 -> Holders: 44
+Year: 1992, Month: 4, Timestamp: 702086400 -> Holders: 52
+Year: 1992, Month: 5, Timestamp: 704678400 -> Holders: 60
+Year: 1992, Month: 6, Timestamp: 707356800 -> Holders: 69
+Year: 1992, Month: 7, Timestamp: 709948800 -> Holders: 93
+Year: 1992, Month: 8, Timestamp: 712627200 -> Holders: 114
+Year: 1992, Month: 9, Timestamp: 715305600 -> Holders: 124
+Year: 1992, Month: 10, Timestamp: 717897600 -> Holders: 149
+Year: 1992, Month: 11, Timestamp: 720576000 -> Holders: 191
+Year: 1992, Month: 12, Timestamp: 723168000 -> Holders: 219
+Year: 1993, Month: 1, Timestamp: 725846400 -> Holders: 263
+Year: 1993, Month: 2, Timestamp: 728524800 -> Holders: 290
+Year: 1993, Month: 3, Timestamp: 730944000 -> Holders: 312
+Year: 1993, Month: 4, Timestamp: 733622400 -> Holders: 358
+Year: 1993, Month: 5, Timestamp: 736214400 -> Holders: 383
+Year: 1993, Month: 6, Timestamp: 738892800 -> Holders: 417
+Year: 1993, Month: 7, Timestamp: 741484800 -> Holders: 434
+Year: 1993, Month: 8, Timestamp: 744163200 -> Holders: 486
+Year: 1993, Month: 9, Timestamp: 746841600 -> Holders: 501
+Year: 1993, Month: 10, Timestamp: 749433600 -> Holders: 538
+Year: 1993, Month: 11, Timestamp: 752112000 -> Holders: 573
+Year: 1993, Month: 12, Timestamp: 754704000 -> Holders: 605
+Year: 1994, Month: 1, Timestamp: 757382400 -> Holders: 667
+Year: 1994, Month: 2, Timestamp: 760060800 -> Holders: 705
+Year: 1994, Month: 3, Timestamp: 762480000 -> Holders: 781
+Year: 1994, Month: 4, Timestamp: 765158400 -> Holders: 853
+Year: 1994, Month: 5, Timestamp: 767750400 -> Holders: 925
+Year: 1994, Month: 6, Timestamp: 770428800 -> Holders: 1001
+Year: 1994, Month: 7, Timestamp: 773020800 -> Holders: 1041
+Year: 1994, Month: 8, Timestamp: 775699200 -> Holders: 1154
+Year: 1994, Month: 9, Timestamp: 778377600 -> Holders: 1203
+Year: 1994, Month: 10, Timestamp: 780969600 -> Holders: 1250
+Year: 1994, Month: 11, Timestamp: 783648000 -> Holders: 1307
+Year: 1994, Month: 12, Timestamp: 786240000 -> Holders: 1360
+Year: 1995, Month: 1, Timestamp: 788918400 -> Holders: 1420
+Year: 1995, Month: 2, Timestamp: 791596800 -> Holders: 1480
+Year: 1995, Month: 3, Timestamp: 794016000 -> Holders: 1553
+Year: 1995, Month: 4, Timestamp: 796694400 -> Holders: 1601
+Year: 1995, Month: 5, Timestamp: 799286400 -> Holders: 1676
+Year: 1995, Month: 6, Timestamp: 801964800 -> Holders: 1730
+Year: 1995, Month: 7, Timestamp: 804556800 -> Holders: 1840
+Year: 1995, Month: 8, Timestamp: 807235200 -> Holders: 1891
+Year: 1995, Month: 9, Timestamp: 809913600 -> Holders: 1967
+Year: 1995, Month: 10, Timestamp: 812505600 -> Holders: 2076
+Year: 1995, Month: 11, Timestamp: 815184000 -> Holders: 2145
+Year: 1995, Month: 12, Timestamp: 817776000 -> Holders: 2245
+Year: 1996, Month: 1, Timestamp: 820454400 -> Holders: 2334
+Year: 1996, Month: 2, Timestamp: 823132800 -> Holders: 2500
+Year: 1996, Month: 3, Timestamp: 825638400 -> Holders: 2584
+Year: 1996, Month: 4, Timestamp: 828316800 -> Holders: 2673
+Year: 1996, Month: 5, Timestamp: 830908800 -> Holders: 2880
+Year: 1996, Month: 6, Timestamp: 833587200 -> Holders: 2976
+Year: 1996, Month: 7, Timestamp: 836179200 -> Holders: 3064
+Year: 1996, Month: 8, Timestamp: 838857600 -> Holders: 3153
+Year: 1996, Month: 9, Timestamp: 841536000 -> Holders: 3514
+Year: 1996, Month: 10, Timestamp: 844128000 -> Holders: 3570
+Year: 1996, Month: 11, Timestamp: 846806400 -> Holders: 3707
+Year: 1996, Month: 12, Timestamp: 849398400 -> Holders: 3937
+Year: 1997, Month: 1, Timestamp: 852076800 -> Holders: 4106
+Year: 1997, Month: 2, Timestamp: 854755200 -> Holders: 4328
+Year: 1997, Month: 3, Timestamp: 857174400 -> Holders: 4489
+Year: 1997, Month: 4, Timestamp: 859852800 -> Holders: 4850
+Year: 1997, Month: 5, Timestamp: 862444800 -> Holders: 5096
+Year: 1997, Month: 6, Timestamp: 865123200 -> Holders: 5299
+Year: 1997, Month: 7, Timestamp: 867715200 -> Holders: 5449
+Year: 1997, Month: 8, Timestamp: 870393600 -> Holders: 5469
+Year: 1997, Month: 9, Timestamp: 873072000 -> Holders: 5724
+Year: 1997, Month: 10, Timestamp: 875664000 -> Holders: 5925
+Year: 1997, Month: 11, Timestamp: 878342400 -> Holders: 6050
+Year: 1997, Month: 12, Timestamp: 880934400 -> Holders: 6182
+Year: 1998, Month: 1, Timestamp: 883612800 -> Holders: 6378
+Year: 1998, Month: 2, Timestamp: 886291200 -> Holders: 6460
+Year: 1998, Month: 3, Timestamp: 888710400 -> Holders: 6591
+Year: 1998, Month: 4, Timestamp: 891388800 -> Holders: 6756
+Year: 1998, Month: 5, Timestamp: 893980800 -> Holders: 6924
+Year: 1998, Month: 6, Timestamp: 896659200 -> Holders: 7026
+Year: 1998, Month: 7, Timestamp: 899251200 -> Holders: 7153
+Year: 1998, Month: 8, Timestamp: 901929600 -> Holders: 7287
+Year: 1998, Month: 9, Timestamp: 904608000 -> Holders: 7399
+Year: 1998, Month: 10, Timestamp: 907200000 -> Holders: 7455
+Year: 1998, Month: 11, Timestamp: 909878400 -> Holders: 7571
+Year: 1998, Month: 12, Timestamp: 912470400 -> Holders: 7653
+Year: 1999, Month: 1, Timestamp: 915148800 -> Holders: 7675
+Year: 1999, Month: 2, Timestamp: 917827200 -> Holders: 7700
+Year: 1999, Month: 3, Timestamp: 920246400 -> Holders: 7834
+Year: 1999, Month: 4, Timestamp: 922924800 -> Holders: 7880
+Year: 1999, Month: 5, Timestamp: 925516800 -> Holders: 8079
+Year: 1999, Month: 6, Timestamp: 928195200 -> Holders: 8112
+Year: 1999, Month: 7, Timestamp: 930787200 -> Holders: 8218
+Year: 1999, Month: 8, Timestamp: 933465600 -> Holders: 8146
+Year: 1999, Month: 9, Timestamp: 936144000 -> Holders: 8248
+Year: 1999, Month: 10, Timestamp: 938736000 -> Holders: 8407
+Year: 1999, Month: 11, Timestamp: 941414400 -> Holders: 8376
+Year: 1999, Month: 12, Timestamp: 944006400 -> Holders: 8602
+Year: 2000, Month: 1, Timestamp: 946684800 -> Holders: 8677
+Year: 2000, Month: 2, Timestamp: 949363200 -> Holders: 8600
+Year: 2000, Month: 3, Timestamp: 951868800 -> Holders: 8538
+Year: 2000, Month: 4, Timestamp: 954547200 -> Holders: 8771
+Year: 2000, Month: 5, Timestamp: 957139200 -> Holders: 8915
+Year: 2000, Month: 6, Timestamp: 959817600 -> Holders: 8935
+Year: 2000, Month: 7, Timestamp: 962409600 -> Holders: 9005
+Year: 2000, Month: 8, Timestamp: 965088000 -> Holders: 9176
+Year: 2000, Month: 9, Timestamp: 967766400 -> Holders: 9149
+Year: 2000, Month: 10, Timestamp: 970358400 -> Holders: 9460
+Year: 2000, Month: 11, Timestamp: 973036800 -> Holders: 9573
+Year: 2000, Month: 12, Timestamp: 975628800 -> Holders: 9668
+Year: 2001, Month: 1, Timestamp: 978307200 -> Holders: 9778
+Year: 2001, Month: 2, Timestamp: 980985600 -> Holders: 9884
+Year: 2001, Month: 3, Timestamp: 983404800 -> Holders: 9964
+Year: 2001, Month: 4, Timestamp: 986083200 -> Holders: 10043
+Year: 2001, Month: 5, Timestamp: 988675200 -> Holders: 10259
+Year: 2001, Month: 6, Timestamp: 991353600 -> Holders: 10326
+Year: 2001, Month: 7, Timestamp: 993945600 -> Holders: 10419
+Year: 2001, Month: 8, Timestamp: 996624000 -> Holders: 10515
+Year: 2001, Month: 9, Timestamp: 999302400 -> Holders: 10627
+Year: 2001, Month: 10, Timestamp: 1001894400 -> Holders: 10722
+Year: 2001, Month: 11, Timestamp: 1004572800 -> Holders: 10855
+Year: 2001, Month: 12, Timestamp: 1007164800 -> Holders: 11040
+Year: 2002, Month: 1, Timestamp: 1009843200 -> Holders: 11207
+Year: 2002, Month: 2, Timestamp: 1012521600 -> Holders: 11218
+Year: 2002, Month: 3, Timestamp: 1014940800 -> Holders: 11322
+Year: 2002, Month: 4, Timestamp: 1017619200 -> Holders: 11518
+Year: 2002, Month: 5, Timestamp: 1020211200 -> Holders: 11756
+Year: 2002, Month: 6, Timestamp: 1022889600 -> Holders: 11799
+Year: 2002, Month: 7, Timestamp: 1025481600 -> Holders: 11924
+Year: 2002, Month: 8, Timestamp: 1028160000 -> Holders: 12041
+Year: 2002, Month: 9, Timestamp: 1030838400 -> Holders: 12283
+Year: 2002, Month: 10, Timestamp: 1033430400 -> Holders: 12350
+Year: 2002, Month: 11, Timestamp: 1036108800 -> Holders: 12512
+Year: 2002, Month: 12, Timestamp: 1038700800 -> Holders: 12605
+Year: 2003, Month: 1, Timestamp: 1041379200 -> Holders: 12762
+Year: 2003, Month: 2, Timestamp: 1044057600 -> Holders: 12800
+Year: 2003, Month: 3, Timestamp: 1046476800 -> Holders: 12937
+Year: 2003, Month: 4, Timestamp: 1049155200 -> Holders: 13024
+Year: 2003, Month: 5, Timestamp: 1051747200 -> Holders: 13313
+Year: 2003, Month: 6, Timestamp: 1054425600 -> Holders: 13465
+Year: 2003, Month: 7, Timestamp: 1057017600 -> Holders: 13626
+Year: 2003, Month: 8, Timestamp: 1059696000 -> Holders: 13662
+Year: 2003, Month: 9, Timestamp: 1062374400 -> Holders: 13830
+Year: 2003, Month: 10, Timestamp: 1064966400 -> Holders: 13967
+Year: 2003, Month: 11, Timestamp: 1067644800 -> Holders: 14266
+Year: 2003, Month: 12, Timestamp: 1070236800 -> Holders: 14372
+Year: 2004, Month: 1, Timestamp: 1072915200 -> Holders: 15125
+Year: 2004, Month: 2, Timestamp: 1075593600 -> Holders: 15011
+Year: 2004, Month: 3, Timestamp: 1078099200 -> Holders: 14938
+Year: 2004, Month: 4, Timestamp: 1080777600 -> Holders: 14915
+Year: 2004, Month: 5, Timestamp: 1083369600 -> Holders: 14843
+Year: 2004, Month: 6, Timestamp: 1086048000 -> Holders: 14787
+Year: 2004, Month: 7, Timestamp: 1088640000 -> Holders: 14731
+Year: 2004, Month: 8, Timestamp: 1091318400 -> Holders: 14700
+Year: 2004, Month: 9, Timestamp: 1093996800 -> Holders: 14648
+Year: 2004, Month: 10, Timestamp: 1096588800 -> Holders: 14566
+Year: 2004, Month: 11, Timestamp: 1099267200 -> Holders: 14516
+Year: 2004, Month: 12, Timestamp: 1101859200 -> Holders: 14416
+Year: 2005, Month: 1, Timestamp: 1104537600 -> Holders: 14336
+Year: 2005, Month: 2, Timestamp: 1107216000 -> Holders: 14311
+Year: 2005, Month: 3, Timestamp: 1109635200 -> Holders: 14295
+Year: 2005, Month: 4, Timestamp: 1112313600 -> Holders: 14207
+Year: 2005, Month: 5, Timestamp: 1114905600 -> Holders: 14173
+Year: 2005, Month: 6, Timestamp: 1117584000 -> Holders: 14259
+Year: 2005, Month: 7, Timestamp: 1120176000 -> Holders: 14341
+Year: 2005, Month: 8, Timestamp: 1122854400 -> Holders: 14539
+Year: 2005, Month: 9, Timestamp: 1125532800 -> Holders: 14660
+Year: 2005, Month: 10, Timestamp: 1128124800 -> Holders: 14767
+Year: 2005, Month: 11, Timestamp: 1130803200 -> Holders: 15189
+Year: 2005, Month: 12, Timestamp: 1133395200 -> Holders: 15303
+Year: 2006, Month: 1, Timestamp: 1136073600 -> Holders: 15713
+Year: 2006, Month: 2, Timestamp: 1138752000 -> Holders: 15816
+Year: 2006, Month: 3, Timestamp: 1141171200 -> Holders: 15903
+Year: 2006, Month: 4, Timestamp: 1143849600 -> Holders: 15972
+Year: 2006, Month: 5, Timestamp: 1146441600 -> Holders: 16084
+Year: 2006, Month: 6, Timestamp: 1149120000 -> Holders: 16125
+Year: 2006, Month: 7, Timestamp: 1151712000 -> Holders: 16169
+Year: 2006, Month: 8, Timestamp: 1154390400 -> Holders: 16378
+Year: 2006, Month: 9, Timestamp: 1157068800 -> Holders: 16407
+Year: 2006, Month: 10, Timestamp: 1159660800 -> Holders: 16425
+Year: 2006, Month: 11, Timestamp: 1162339200 -> Holders: 16427
+Year: 2006, Month: 12, Timestamp: 1164931200 -> Holders: 16358
+Year: 2007, Month: 1, Timestamp: 1167609600 -> Holders: 16294
+Year: 2007, Month: 2, Timestamp: 1170288000 -> Holders: 16282
+Year: 2007, Month: 3, Timestamp: 1172707200 -> Holders: 16260
+Year: 2007, Month: 4, Timestamp: 1175385600 -> Holders: 16356
+Year: 2007, Month: 5, Timestamp: 1177977600 -> Holders: 16186
+Year: 2007, Month: 6, Timestamp: 1180656000 -> Holders: 16391
+Year: 2007, Month: 7, Timestamp: 1183248000 -> Holders: 16592
+Year: 2007, Month: 8, Timestamp: 1185926400 -> Holders: 16518
+Year: 2007, Month: 9, Timestamp: 1188604800 -> Holders: 16511
+Year: 2007, Month: 10, Timestamp: 1191196800 -> Holders: 16529
+Year: 2007, Month: 11, Timestamp: 1193875200 -> Holders: 16695
+Year: 2007, Month: 12, Timestamp: 1196467200 -> Holders: 16805
+Year: 2008, Month: 1, Timestamp: 1199145600 -> Holders: 17120
+Year: 2008, Month: 2, Timestamp: 1201824000 -> Holders: 17105
+Year: 2008, Month: 3, Timestamp: 1204329600 -> Holders: 17279
+Year: 2008, Month: 4, Timestamp: 1207008000 -> Holders: 17414
+Year: 2008, Month: 5, Timestamp: 1209600000 -> Holders: 17487
+Year: 2008, Month: 6, Timestamp: 1212278400 -> Holders: 17757
+Year: 2008, Month: 7, Timestamp: 1214870400 -> Holders: 17841
+Year: 2008, Month: 8, Timestamp: 1217548800 -> Holders: 17746
+Year: 2008, Month: 9, Timestamp: 1220227200 -> Holders: 17771
+Year: 2008, Month: 10, Timestamp: 1222819200 -> Holders: 18339
+Year: 2008, Month: 11, Timestamp: 1225497600 -> Holders: 18353
+Year: 2008, Month: 12, Timestamp: 1228089600 -> Holders: 18606
+Year: 2009, Month: 1, Timestamp: 1230768000 -> Holders: 18663
+Year: 2009, Month: 2, Timestamp: 1233446400 -> Holders: 18809
+Year: 2009, Month: 3, Timestamp: 1235865600 -> Holders: 18909
+Year: 2009, Month: 4, Timestamp: 1238544000 -> Holders: 18997
+Year: 2009, Month: 5, Timestamp: 1241136000 -> Holders: 19283
+Year: 2009, Month: 6, Timestamp: 1243814400 -> Holders: 19419
+Year: 2009, Month: 7, Timestamp: 1246406400 -> Holders: 19591
+Year: 2009, Month: 8, Timestamp: 1249084800 -> Holders: 19779
+Year: 2009, Month: 9, Timestamp: 1251763200 -> Holders: 20147
+Year: 2009, Month: 10, Timestamp: 1254355200 -> Holders: 20429
+Year: 2009, Month: 11, Timestamp: 1257033600 -> Holders: 20581
+Year: 2009, Month: 12, Timestamp: 1259625600 -> Holders: 20783
+Year: 2010, Month: 1, Timestamp: 1262304000 -> Holders: 21145
+Year: 2010, Month: 2, Timestamp: 1264982400 -> Holders: 21262
+Year: 2010, Month: 3, Timestamp: 1267401600 -> Holders: 21255
+Year: 2010, Month: 4, Timestamp: 1270080000 -> Holders: 21451
+Year: 2010, Month: 5, Timestamp: 1272672000 -> Holders: 21721
+Year: 2010, Month: 6, Timestamp: 1275350400 -> Holders: 21771
+Year: 2010, Month: 7, Timestamp: 1277942400 -> Holders: 22001
+Year: 2010, Month: 8, Timestamp: 1280620800 -> Holders: 21850
+Year: 2010, Month: 9, Timestamp: 1283299200 -> Holders: 21951
+Year: 2010, Month: 10, Timestamp: 1285891200 -> Holders: 21971
+Year: 2010, Month: 11, Timestamp: 1288569600 -> Holders: 21891
+Year: 2010, Month: 12, Timestamp: 1291161600 -> Holders: 21807
+Year: 2011, Month: 1, Timestamp: 1293840000 -> Holders: 22098
+Year: 2011, Month: 2, Timestamp: 1296518400 -> Holders: 22139
+Year: 2011, Month: 3, Timestamp: 1298937600 -> Holders: 22142
+Year: 2011, Month: 4, Timestamp: 1301616000 -> Holders: 22314
+Year: 2011, Month: 5, Timestamp: 1304208000 -> Holders: 22108
+Year: 2011, Month: 6, Timestamp: 1306886400 -> Holders: 22473
+Year: 2011, Month: 7, Timestamp: 1309478400 -> Holders: 22260
+Year: 2011, Month: 8, Timestamp: 1312156800 -> Holders: 22377
+Year: 2011, Month: 9, Timestamp: 1314835200 -> Holders: 22264
+Year: 2011, Month: 10, Timestamp: 1317427200 -> Holders: 22412
+Year: 2011, Month: 11, Timestamp: 1320105600 -> Holders: 22320
+Year: 2011, Month: 12, Timestamp: 1322697600 -> Holders: 22385
+Year: 2012, Month: 1, Timestamp: 1325376000 -> Holders: 22344
+Year: 2012, Month: 2, Timestamp: 1328054400 -> Holders: 22390
+Year: 2012, Month: 3, Timestamp: 1330560000 -> Holders: 22426
+Year: 2012, Month: 4, Timestamp: 1333238400 -> Holders: 22353
+Year: 2012, Month: 5, Timestamp: 1335830400 -> Holders: 22340
+Year: 2012, Month: 6, Timestamp: 1338508800 -> Holders: 22365
+Year: 2012, Month: 7, Timestamp: 1341100800 -> Holders: 22269
+Year: 2012, Month: 8, Timestamp: 1343779200 -> Holders: 22339
+Year: 2012, Month: 9, Timestamp: 1346457600 -> Holders: 22417
+Year: 2012, Month: 10, Timestamp: 1349049600 -> Holders: 22272
+Year: 2012, Month: 11, Timestamp: 1351728000 -> Holders: 22267
+Year: 2012, Month: 12, Timestamp: 1354320000 -> Holders: 22359
+Year: 2013, Month: 1, Timestamp: 1356998400 -> Holders: 21993
+Year: 2013, Month: 2, Timestamp: 1359676800 -> Holders: 21951
+Year: 2013, Month: 3, Timestamp: 1362096000 -> Holders: 21886
+Year: 2013, Month: 4, Timestamp: 1364774400 -> Holders: 21839
+Year: 2013, Month: 5, Timestamp: 1367366400 -> Holders: 21734
+Year: 2013, Month: 6, Timestamp: 1370044800 -> Holders: 21490
+Year: 2013, Month: 7, Timestamp: 1372636800 -> Holders: 21420
+Year: 2013, Month: 8, Timestamp: 1375315200 -> Holders: 21548
+Year: 2013, Month: 9, Timestamp: 1377993600 -> Holders: 21479
+Year: 2013, Month: 10, Timestamp: 1380585600 -> Holders: 20936
+Year: 2013, Month: 11, Timestamp: 1383264000 -> Holders: 20696
+Year: 2013, Month: 12, Timestamp: 1385856000 -> Holders: 20632
+Year: 2014, Month: 1, Timestamp: 1388534400 -> Holders: 20301
+Year: 2014, Month: 2, Timestamp: 1391212800 -> Holders: 20226
+Year: 2014, Month: 3, Timestamp: 1393632000 -> Holders: 20164
+Year: 2014, Month: 4, Timestamp: 1396310400 -> Holders: 20162
+Year: 2014, Month: 5, Timestamp: 1398902400 -> Holders: 20148
+Year: 2014, Month: 6, Timestamp: 1401580800 -> Holders: 20134
+Year: 2014, Month: 7, Timestamp: 1404172800 -> Holders: 20223
+Year: 2014, Month: 8, Timestamp: 1406851200 -> Holders: 20206
+Year: 2014, Month: 9, Timestamp: 1409529600 -> Holders: 20127
+Year: 2014, Month: 10, Timestamp: 1412121600 -> Holders: 19845
+Year: 2014, Month: 11, Timestamp: 1414800000 -> Holders: 19870
+Year: 2014, Month: 12, Timestamp: 1417392000 -> Holders: 19902
+Year: 2015, Month: 1, Timestamp: 1420070400 -> Holders: 19830
+Year: 2015, Month: 2, Timestamp: 1422748800 -> Holders: 19836
+Year: 2015, Month: 3, Timestamp: 1425168000 -> Holders: 20013
+Year: 2015, Month: 4, Timestamp: 1427846400 -> Holders: 20094
+Year: 2015, Month: 5, Timestamp: 1430438400 -> Holders: 20052
+Year: 2015, Month: 6, Timestamp: 1433116800 -> Holders: 19947
+Year: 2015, Month: 7, Timestamp: 1435708800 -> Holders: 19935
+Year: 2015, Month: 8, Timestamp: 1438387200 -> Holders: 19931
+Year: 2015, Month: 9, Timestamp: 1441065600 -> Holders: 20018
+Year: 2015, Month: 10, Timestamp: 1443657600 -> Holders: 19744
+Year: 2015, Month: 11, Timestamp: 1446336000 -> Holders: 19724
+Year: 2015, Month: 12, Timestamp: 1448928000 -> Holders: 19743
+Year: 2016, Month: 1, Timestamp: 1451606400 -> Holders: 19356
+Year: 2016, Month: 2, Timestamp: 1454284800 -> Holders: 19195
+Year: 2016, Month: 3, Timestamp: 1456790400 -> Holders: 19218
+Year: 2016, Month: 4, Timestamp: 1459468800 -> Holders: 19132
+Year: 2016, Month: 5, Timestamp: 1462060800 -> Holders: 19280
+Year: 2016, Month: 6, Timestamp: 1464739200 -> Holders: 19151
+Year: 2016, Month: 7, Timestamp: 1467331200 -> Holders: 19147
+Year: 2016, Month: 8, Timestamp: 1470009600 -> Holders: 18991
+Year: 2016, Month: 9, Timestamp: 1472688000 -> Holders: 19022
+Year: 2016, Month: 10, Timestamp: 1475280000 -> Holders: 18870
+Year: 2016, Month: 11, Timestamp: 1477958400 -> Holders: 18726
+Year: 2016, Month: 12, Timestamp: 1480550400 -> Holders: 18632
+Year: 2017, Month: 1, Timestamp: 1483228800 -> Holders: 18551
+Year: 2017, Month: 2, Timestamp: 1485907200 -> Holders: 18530
+Year: 2017, Month: 3, Timestamp: 1488326400 -> Holders: 18528
+Year: 2017, Month: 4, Timestamp: 1491004800 -> Holders: 18263
+Year: 2017, Month: 5, Timestamp: 1493596800 -> Holders: 18405
+Year: 2017, Month: 6, Timestamp: 1496275200 -> Holders: 18249
+Year: 2017, Month: 7, Timestamp: 1498867200 -> Holders: 18163
+Year: 2017, Month: 8, Timestamp: 1501545600 -> Holders: 18286
+Year: 2017, Month: 9, Timestamp: 1504224000 -> Holders: 18338
+Year: 2017, Month: 10, Timestamp: 1506816000 -> Holders: 18334
+Year: 2017, Month: 11, Timestamp: 1509494400 -> Holders: 18290
+Year: 2017, Month: 12, Timestamp: 1512086400 -> Holders: 18232
+Year: 2018, Month: 1, Timestamp: 1514764800 -> Holders: 18063
+Year: 2018, Month: 2, Timestamp: 1517443200 -> Holders: 18004
+Year: 2018, Month: 3, Timestamp: 1519862400 -> Holders: 18063
+Year: 2018, Month: 4, Timestamp: 1522540800 -> Holders: 18024
+Year: 2018, Month: 5, Timestamp: 1525132800 -> Holders: 17994
+Year: 2018, Month: 6, Timestamp: 1527811200 -> Holders: 18040
+Year: 2018, Month: 7, Timestamp: 1530403200 -> Holders: 18044
+Year: 2018, Month: 8, Timestamp: 1533081600 -> Holders: 18135
+Year: 2018, Month: 9, Timestamp: 1535760000 -> Holders: 18039
+Year: 2018, Month: 10, Timestamp: 1538352000 -> Holders: 17905
+Year: 2018, Month: 11, Timestamp: 1541030400 -> Holders: 17897
+Year: 2018, Month: 12, Timestamp: 1543622400 -> Holders: 17903
+Year: 2019, Month: 1, Timestamp: 1546300800 -> Holders: 17733
+Year: 2019, Month: 2, Timestamp: 1548979200 -> Holders: 17663
+Year: 2019, Month: 3, Timestamp: 1551398400 -> Holders: 17692
+Year: 2019, Month: 4, Timestamp: 1554076800 -> Holders: 17705
+Year: 2019, Month: 5, Timestamp: 1556668800 -> Holders: 17554
+Year: 2019, Month: 6, Timestamp: 1559347200 -> Holders: 17540
+Year: 2019, Month: 7, Timestamp: 1561939200 -> Holders: 17510
+Year: 2019, Month: 8, Timestamp: 1564617600 -> Holders: 17465
+Year: 2019, Month: 9, Timestamp: 1567296000 -> Holders: 17327
+Year: 2019, Month: 10, Timestamp: 1569888000 -> Holders: 17205
+Year: 2019, Month: 11, Timestamp: 1572566400 -> Holders: 17277
+Year: 2019, Month: 12, Timestamp: 1575158400 -> Holders: 17061
+Year: 2020, Month: 1, Timestamp: 1577836800 -> Holders: 16937
+Year: 2020, Month: 2, Timestamp: 1580515200 -> Holders: 16896
+Year: 2020, Month: 3, Timestamp: 1583020800 -> Holders: 16890
+Year: 2020, Month: 4, Timestamp: 1585699200 -> Holders: 16742
+Year: 2020, Month: 5, Timestamp: 1588291200 -> Holders: 16734
+Year: 2020, Month: 6, Timestamp: 1590969600 -> Holders: 16673
+Year: 2020, Month: 7, Timestamp: 1593561600 -> Holders: 16601
+Year: 2020, Month: 8, Timestamp: 1596240000 -> Holders: 16370
+Year: 2020, Month: 9, Timestamp: 1598918400 -> Holders: 16349
+Year: 2020, Month: 10, Timestamp: 1601510400 -> Holders: 16367
+Year: 2020, Month: 11, Timestamp: 1604188800 -> Holders: 16357
+Year: 2020, Month: 12, Timestamp: 1606780800 -> Holders: 16454
+Year: 2021, Month: 1, Timestamp: 1609459200 -> Holders: 16474
+Year: 2021, Month: 2, Timestamp: 1612137600 -> Holders: 16291
+Year: 2021, Month: 3, Timestamp: 1614556800 -> Holders: 16023
+Year: 2021, Month: 4, Timestamp: 1617235200 -> Holders: 15754
+Year: 2021, Month: 5, Timestamp: 1619827200 -> Holders: 15455
+Year: 2021, Month: 6, Timestamp: 1622505600 -> Holders: 15227
+Year: 2021, Month: 7, Timestamp: 1625097600 -> Holders: 15004
+Year: 2021, Month: 8, Timestamp: 1627776000 -> Holders: 14732
+Year: 2021, Month: 9, Timestamp: 1630454400 -> Holders: 14497
+Year: 2021, Month: 10, Timestamp: 1633046400 -> Holders: 14323
+Year: 2021, Month: 11, Timestamp: 1635724800 -> Holders: 14135
+Year: 2021, Month: 12, Timestamp: 1638316800 -> Holders: 13905
+Year: 2022, Month: 1, Timestamp: 1640995200 -> Holders: 13524
+Year: 2022, Month: 2, Timestamp: 1643673600 -> Holders: 13394
+Year: 2022, Month: 3, Timestamp: 1646092800 -> Holders: 13231
+Year: 2022, Month: 4, Timestamp: 1648771200 -> Holders: 13003
+Year: 2022, Month: 5, Timestamp: 1651363200 -> Holders: 12869
+Year: 2022, Month: 6, Timestamp: 1654041600 -> Holders: 12735
+Year: 2022, Month: 7, Timestamp: 1656633600 -> Holders: 12511
+Year: 2022, Month: 8, Timestamp: 1659312000 -> Holders: 12415
+Year: 2022, Month: 9, Timestamp: 1661990400 -> Holders: 12244
+Year: 2022, Month: 10, Timestamp: 1664582400 -> Holders: 12161
+Year: 2022, Month: 11, Timestamp: 1667260800 -> Holders: 12141
+Year: 2022, Month: 12, Timestamp: 1669852800 -> Holders: 12057
+Year: 2023, Month: 1, Timestamp: 1672531200 -> Holders: 11940
+Year: 2023, Month: 2, Timestamp: 1675209600 -> Holders: 11821
+Year: 2023, Month: 3, Timestamp: 1677628800 -> Holders: 11706
+Year: 2023, Month: 4, Timestamp: 1680307200 -> Holders: 11548
+Year: 2023, Month: 5, Timestamp: 1682899200 -> Holders: 11430
+Year: 2023, Month: 6, Timestamp: 1685577600 -> Holders: 11345
+Year: 2023, Month: 7, Timestamp: 1688169600 -> Holders: 11197
+Year: 2023, Month: 8, Timestamp: 1690848000 -> Holders: 11111
+Year: 2023, Month: 9, Timestamp: 1693526400 -> Holders: 10030
+Year: 2023, Month: 10, Timestamp: 1696118400 -> Holders: 10036
+Year: 2023, Month: 11, Timestamp: 1698796800 -> Holders: 10031
+Year: 2023, Month: 12, Timestamp: 1701388800 -> Holders: 10051
+Year: 2024, Month: 1, Timestamp: 1704067200 -> Holders: 10167
+Year: 2024, Month: 2, Timestamp: 1706745600 -> Holders: 10220
+Year: 2024, Month: 3, Timestamp: 1709251200 -> Holders: 10161
+Year: 2024, Month: 4, Timestamp: 1711929600 -> Holders: 10085
