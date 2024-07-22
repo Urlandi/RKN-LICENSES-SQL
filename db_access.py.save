@@ -6,7 +6,6 @@ import logging
 ERROR_STATE = None
 EMPTY_STATE = 0
 SUCCESS_STATE = 0
-CACHE_MAX = 100
 
 
 def db_close(db):
@@ -28,8 +27,6 @@ def saved_id(get_id):
         db_id = get_id(db, *args)
         if db_id is not None and EMPTY_STATE < db_id:
             _cached_ids[hash_args] = db_id
-            if CACHE_MAX < len(_cached_ids):
-                _cached_ids.pop(list(_cached_ids.keys())[0])
         return db_id
     return get_saved_id
 
@@ -192,28 +189,27 @@ def add_holder(db, name, ownership, name_short, name_brand, addr_legal, inn, ogr
     if name is None:
         return EMPTY_STATE
 
-    # db_id = holder_cached_only_id(db, name, ownership, addr_legal, inn, ogrn)
-    db_id = holder_id(db, name, ownership, addr_legal, inn, ogrn)
+    db_id = holder_cached_only_id(db, name, ownership, addr_legal, inn, ogrn)
     if db_id is not None and EMPTY_STATE < db_id:
         return db_id
-    # else:
-    #    global _new_holder_id
-    #    db_id = _new_holder_id
+    else:
+        global _new_holder_id
+        db_id = _new_holder_id
 
-    db_query_insert = "INSERT INTO holders(name, ownership, name_short, name_brand, addr_legal, inn, ogrn)\
-    VALUES(?, ?, ?, ?, ?, ?, ?)"
+    db_query_insert = "INSERT INTO holders(id, name, ownership, name_short, name_brand, addr_legal, inn, ogrn)\
+    VALUES(?, ?, ?, ?, ?, ?, ?, ?)"
 
     db_cursor = db.cursor()
 
     try:
-        db_cursor.execute(db_query_insert, (name, ownership, name_short, name_brand, addr_legal, inn, ogrn,))
+        db_cursor.execute(db_query_insert, (db_id, name, ownership, name_short, name_brand, addr_legal, inn, ogrn,))
         
     except (sqlite3.DatabaseError, sqlite3.IntegrityError) as e:
         
         logging.critical("Database insert error - {}".format(e))
         return ERROR_STATE
 
-    return holder_id(db, name, ownership, addr_legal, inn, ogrn)
+    return holder_save_id(db, name, ownership, addr_legal, inn, ogrn)
 
 
 def add_lic_status_name(db, lic_status_name):
