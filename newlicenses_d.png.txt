@@ -1,0 +1,808 @@
+Year: 1991, Month: 6, Timestamp: 675734400 -> Licenses: 4
+Year: 1991, Month: 6, Timestamp: 675734400 -> New licenses: 4
+Year: 1991, Month: 7, Timestamp: 678326400 -> Licenses: 5
+Year: 1991, Month: 7, Timestamp: 678326400 -> New licenses: 1
+Year: 1991, Month: 8, Timestamp: 681004800 -> Licenses: 5
+Year: 1991, Month: 8, Timestamp: 681004800 -> New licenses: 0
+Year: 1991, Month: 9, Timestamp: 683683200 -> Licenses: 7
+Year: 1991, Month: 9, Timestamp: 683683200 -> New licenses: 2
+Year: 1991, Month: 10, Timestamp: 686275200 -> Licenses: 8
+Year: 1991, Month: 10, Timestamp: 686275200 -> New licenses: 1
+Year: 1991, Month: 11, Timestamp: 688953600 -> Licenses: 12
+Year: 1991, Month: 11, Timestamp: 688953600 -> New licenses: 5
+Year: 1991, Month: 12, Timestamp: 691545600 -> Licenses: 17
+Year: 1991, Month: 12, Timestamp: 691545600 -> New licenses: 5
+Year: 1992, Month: 1, Timestamp: 694224000 -> Licenses: 21
+Year: 1992, Month: 1, Timestamp: 694224000 -> New licenses: 5
+Year: 1992, Month: 2, Timestamp: 696902400 -> Licenses: 27
+Year: 1992, Month: 2, Timestamp: 696902400 -> New licenses: 6
+Year: 1992, Month: 3, Timestamp: 699408000 -> Licenses: 44
+Year: 1992, Month: 3, Timestamp: 699408000 -> New licenses: 17
+Year: 1992, Month: 4, Timestamp: 702086400 -> Licenses: 52
+Year: 1992, Month: 4, Timestamp: 702086400 -> New licenses: 9
+Year: 1992, Month: 5, Timestamp: 704678400 -> Licenses: 60
+Year: 1992, Month: 5, Timestamp: 704678400 -> New licenses: 9
+Year: 1992, Month: 6, Timestamp: 707356800 -> Licenses: 69
+Year: 1992, Month: 6, Timestamp: 707356800 -> New licenses: 9
+Year: 1992, Month: 7, Timestamp: 709948800 -> Licenses: 93
+Year: 1992, Month: 7, Timestamp: 709948800 -> New licenses: 25
+Year: 1992, Month: 8, Timestamp: 712627200 -> Licenses: 115
+Year: 1992, Month: 8, Timestamp: 712627200 -> New licenses: 23
+Year: 1992, Month: 9, Timestamp: 715305600 -> Licenses: 125
+Year: 1992, Month: 9, Timestamp: 715305600 -> New licenses: 10
+Year: 1992, Month: 10, Timestamp: 717897600 -> Licenses: 150
+Year: 1992, Month: 10, Timestamp: 717897600 -> New licenses: 25
+Year: 1992, Month: 11, Timestamp: 720576000 -> Licenses: 192
+Year: 1992, Month: 11, Timestamp: 720576000 -> New licenses: 43
+Year: 1992, Month: 12, Timestamp: 723168000 -> Licenses: 220
+Year: 1992, Month: 12, Timestamp: 723168000 -> New licenses: 33
+Year: 1993, Month: 1, Timestamp: 725846400 -> Licenses: 264
+Year: 1993, Month: 1, Timestamp: 725846400 -> New licenses: 51
+Year: 1993, Month: 2, Timestamp: 728524800 -> Licenses: 291
+Year: 1993, Month: 2, Timestamp: 728524800 -> New licenses: 28
+Year: 1993, Month: 3, Timestamp: 730944000 -> Licenses: 315
+Year: 1993, Month: 3, Timestamp: 730944000 -> New licenses: 24
+Year: 1993, Month: 4, Timestamp: 733622400 -> Licenses: 361
+Year: 1993, Month: 4, Timestamp: 733622400 -> New licenses: 48
+Year: 1993, Month: 5, Timestamp: 736214400 -> Licenses: 386
+Year: 1993, Month: 5, Timestamp: 736214400 -> New licenses: 30
+Year: 1993, Month: 6, Timestamp: 738892800 -> Licenses: 421
+Year: 1993, Month: 6, Timestamp: 738892800 -> New licenses: 38
+Year: 1993, Month: 7, Timestamp: 741484800 -> Licenses: 438
+Year: 1993, Month: 7, Timestamp: 741484800 -> New licenses: 21
+Year: 1993, Month: 8, Timestamp: 744163200 -> Licenses: 520
+Year: 1993, Month: 8, Timestamp: 744163200 -> New licenses: 87
+Year: 1993, Month: 9, Timestamp: 746841600 -> Licenses: 535
+Year: 1993, Month: 9, Timestamp: 746841600 -> New licenses: 16
+Year: 1993, Month: 10, Timestamp: 749433600 -> Licenses: 574
+Year: 1993, Month: 10, Timestamp: 749433600 -> New licenses: 40
+Year: 1993, Month: 11, Timestamp: 752112000 -> Licenses: 610
+Year: 1993, Month: 11, Timestamp: 752112000 -> New licenses: 38
+Year: 1993, Month: 12, Timestamp: 754704000 -> Licenses: 649
+Year: 1993, Month: 12, Timestamp: 754704000 -> New licenses: 39
+Year: 1994, Month: 1, Timestamp: 757382400 -> Licenses: 715
+Year: 1994, Month: 1, Timestamp: 757382400 -> New licenses: 71
+Year: 1994, Month: 2, Timestamp: 760060800 -> Licenses: 753
+Year: 1994, Month: 2, Timestamp: 760060800 -> New licenses: 39
+Year: 1994, Month: 3, Timestamp: 762480000 -> Licenses: 830
+Year: 1994, Month: 3, Timestamp: 762480000 -> New licenses: 85
+Year: 1994, Month: 4, Timestamp: 765158400 -> Licenses: 903
+Year: 1994, Month: 4, Timestamp: 765158400 -> New licenses: 75
+Year: 1994, Month: 5, Timestamp: 767750400 -> Licenses: 983
+Year: 1994, Month: 5, Timestamp: 767750400 -> New licenses: 87
+Year: 1994, Month: 6, Timestamp: 770428800 -> Licenses: 1065
+Year: 1994, Month: 6, Timestamp: 770428800 -> New licenses: 89
+Year: 1994, Month: 7, Timestamp: 773020800 -> Licenses: 1116
+Year: 1994, Month: 7, Timestamp: 773020800 -> New licenses: 53
+Year: 1994, Month: 8, Timestamp: 775699200 -> Licenses: 1240
+Year: 1994, Month: 8, Timestamp: 775699200 -> New licenses: 125
+Year: 1994, Month: 9, Timestamp: 778377600 -> Licenses: 1293
+Year: 1994, Month: 9, Timestamp: 778377600 -> New licenses: 59
+Year: 1994, Month: 10, Timestamp: 780969600 -> Licenses: 1344
+Year: 1994, Month: 10, Timestamp: 780969600 -> New licenses: 57
+Year: 1994, Month: 11, Timestamp: 783648000 -> Licenses: 1405
+Year: 1994, Month: 11, Timestamp: 783648000 -> New licenses: 73
+Year: 1994, Month: 12, Timestamp: 786240000 -> Licenses: 1461
+Year: 1994, Month: 12, Timestamp: 786240000 -> New licenses: 67
+Year: 1995, Month: 1, Timestamp: 788918400 -> Licenses: 1526
+Year: 1995, Month: 1, Timestamp: 788918400 -> New licenses: 73
+Year: 1995, Month: 2, Timestamp: 791596800 -> Licenses: 1588
+Year: 1995, Month: 2, Timestamp: 791596800 -> New licenses: 64
+Year: 1995, Month: 3, Timestamp: 794016000 -> Licenses: 1663
+Year: 1995, Month: 3, Timestamp: 794016000 -> New licenses: 83
+Year: 1995, Month: 4, Timestamp: 796694400 -> Licenses: 1715
+Year: 1995, Month: 4, Timestamp: 796694400 -> New licenses: 56
+Year: 1995, Month: 5, Timestamp: 799286400 -> Licenses: 1795
+Year: 1995, Month: 5, Timestamp: 799286400 -> New licenses: 89
+Year: 1995, Month: 6, Timestamp: 801964800 -> Licenses: 1851
+Year: 1995, Month: 6, Timestamp: 801964800 -> New licenses: 59
+Year: 1995, Month: 7, Timestamp: 804556800 -> Licenses: 1968
+Year: 1995, Month: 7, Timestamp: 804556800 -> New licenses: 135
+Year: 1995, Month: 8, Timestamp: 807235200 -> Licenses: 2022
+Year: 1995, Month: 8, Timestamp: 807235200 -> New licenses: 63
+Year: 1995, Month: 9, Timestamp: 809913600 -> Licenses: 2103
+Year: 1995, Month: 9, Timestamp: 809913600 -> New licenses: 83
+Year: 1995, Month: 10, Timestamp: 812505600 -> Licenses: 2220
+Year: 1995, Month: 10, Timestamp: 812505600 -> New licenses: 126
+Year: 1995, Month: 11, Timestamp: 815184000 -> Licenses: 2293
+Year: 1995, Month: 11, Timestamp: 815184000 -> New licenses: 82
+Year: 1995, Month: 12, Timestamp: 817776000 -> Licenses: 2397
+Year: 1995, Month: 12, Timestamp: 817776000 -> New licenses: 110
+Year: 1996, Month: 1, Timestamp: 820454400 -> Licenses: 2488
+Year: 1996, Month: 1, Timestamp: 820454400 -> New licenses: 102
+Year: 1996, Month: 2, Timestamp: 823132800 -> Licenses: 2657
+Year: 1996, Month: 2, Timestamp: 823132800 -> New licenses: 186
+Year: 1996, Month: 3, Timestamp: 825638400 -> Licenses: 2743
+Year: 1996, Month: 3, Timestamp: 825638400 -> New licenses: 90
+Year: 1996, Month: 4, Timestamp: 828316800 -> Licenses: 2842
+Year: 1996, Month: 4, Timestamp: 828316800 -> New licenses: 106
+Year: 1996, Month: 5, Timestamp: 830908800 -> Licenses: 3078
+Year: 1996, Month: 5, Timestamp: 830908800 -> New licenses: 237
+Year: 1996, Month: 6, Timestamp: 833587200 -> Licenses: 3180
+Year: 1996, Month: 6, Timestamp: 833587200 -> New licenses: 109
+Year: 1996, Month: 7, Timestamp: 836179200 -> Licenses: 3308
+Year: 1996, Month: 7, Timestamp: 836179200 -> New licenses: 135
+Year: 1996, Month: 8, Timestamp: 838857600 -> Licenses: 3408
+Year: 1996, Month: 8, Timestamp: 838857600 -> New licenses: 106
+Year: 1996, Month: 9, Timestamp: 841536000 -> Licenses: 3829
+Year: 1996, Month: 9, Timestamp: 841536000 -> New licenses: 439
+Year: 1996, Month: 10, Timestamp: 844128000 -> Licenses: 3896
+Year: 1996, Month: 10, Timestamp: 844128000 -> New licenses: 72
+Year: 1996, Month: 11, Timestamp: 846806400 -> Licenses: 4049
+Year: 1996, Month: 11, Timestamp: 846806400 -> New licenses: 156
+Year: 1996, Month: 12, Timestamp: 849398400 -> Licenses: 4327
+Year: 1996, Month: 12, Timestamp: 849398400 -> New licenses: 279
+Year: 1997, Month: 1, Timestamp: 852076800 -> Licenses: 4521
+Year: 1997, Month: 1, Timestamp: 852076800 -> New licenses: 195
+Year: 1997, Month: 2, Timestamp: 854755200 -> Licenses: 4798
+Year: 1997, Month: 2, Timestamp: 854755200 -> New licenses: 282
+Year: 1997, Month: 3, Timestamp: 857174400 -> Licenses: 4990
+Year: 1997, Month: 3, Timestamp: 857174400 -> New licenses: 204
+Year: 1997, Month: 4, Timestamp: 859852800 -> Licenses: 5404
+Year: 1997, Month: 4, Timestamp: 859852800 -> New licenses: 417
+Year: 1997, Month: 5, Timestamp: 862444800 -> Licenses: 5671
+Year: 1997, Month: 5, Timestamp: 862444800 -> New licenses: 276
+Year: 1997, Month: 6, Timestamp: 865123200 -> Licenses: 5919
+Year: 1997, Month: 6, Timestamp: 865123200 -> New licenses: 252
+Year: 1997, Month: 7, Timestamp: 867715200 -> Licenses: 6092
+Year: 1997, Month: 7, Timestamp: 867715200 -> New licenses: 192
+Year: 1997, Month: 8, Timestamp: 870393600 -> Licenses: 6117
+Year: 1997, Month: 8, Timestamp: 870393600 -> New licenses: 62
+Year: 1997, Month: 9, Timestamp: 873072000 -> Licenses: 6401
+Year: 1997, Month: 9, Timestamp: 873072000 -> New licenses: 290
+Year: 1997, Month: 10, Timestamp: 875664000 -> Licenses: 6631
+Year: 1997, Month: 10, Timestamp: 875664000 -> New licenses: 256
+Year: 1997, Month: 11, Timestamp: 878342400 -> Licenses: 6784
+Year: 1997, Month: 11, Timestamp: 878342400 -> New licenses: 194
+Year: 1997, Month: 12, Timestamp: 880934400 -> Licenses: 6933
+Year: 1997, Month: 12, Timestamp: 880934400 -> New licenses: 165
+Year: 1998, Month: 1, Timestamp: 883612800 -> Licenses: 7156
+Year: 1998, Month: 1, Timestamp: 883612800 -> New licenses: 252
+Year: 1998, Month: 2, Timestamp: 886291200 -> Licenses: 7258
+Year: 1998, Month: 2, Timestamp: 886291200 -> New licenses: 145
+Year: 1998, Month: 3, Timestamp: 888710400 -> Licenses: 7407
+Year: 1998, Month: 3, Timestamp: 888710400 -> New licenses: 171
+Year: 1998, Month: 4, Timestamp: 891388800 -> Licenses: 7625
+Year: 1998, Month: 4, Timestamp: 891388800 -> New licenses: 250
+Year: 1998, Month: 5, Timestamp: 893980800 -> Licenses: 7860
+Year: 1998, Month: 5, Timestamp: 893980800 -> New licenses: 270
+Year: 1998, Month: 6, Timestamp: 896659200 -> Licenses: 8002
+Year: 1998, Month: 6, Timestamp: 896659200 -> New licenses: 166
+Year: 1998, Month: 7, Timestamp: 899251200 -> Licenses: 8167
+Year: 1998, Month: 7, Timestamp: 899251200 -> New licenses: 182
+Year: 1998, Month: 8, Timestamp: 901929600 -> Licenses: 8401
+Year: 1998, Month: 8, Timestamp: 901929600 -> New licenses: 249
+Year: 1998, Month: 9, Timestamp: 904608000 -> Licenses: 8537
+Year: 1998, Month: 9, Timestamp: 904608000 -> New licenses: 144
+Year: 1998, Month: 10, Timestamp: 907200000 -> Licenses: 8614
+Year: 1998, Month: 10, Timestamp: 907200000 -> New licenses: 106
+Year: 1998, Month: 11, Timestamp: 909878400 -> Licenses: 8761
+Year: 1998, Month: 11, Timestamp: 909878400 -> New licenses: 157
+Year: 1998, Month: 12, Timestamp: 912470400 -> Licenses: 8861
+Year: 1998, Month: 12, Timestamp: 912470400 -> New licenses: 114
+Year: 1999, Month: 1, Timestamp: 915148800 -> Licenses: 8925
+Year: 1999, Month: 1, Timestamp: 915148800 -> New licenses: 129
+Year: 1999, Month: 2, Timestamp: 917827200 -> Licenses: 8949
+Year: 1999, Month: 2, Timestamp: 917827200 -> New licenses: 107
+Year: 1999, Month: 3, Timestamp: 920246400 -> Licenses: 9133
+Year: 1999, Month: 3, Timestamp: 920246400 -> New licenses: 275
+Year: 1999, Month: 4, Timestamp: 922924800 -> Licenses: 9193
+Year: 1999, Month: 4, Timestamp: 922924800 -> New licenses: 113
+Year: 1999, Month: 5, Timestamp: 925516800 -> Licenses: 9476
+Year: 1999, Month: 5, Timestamp: 925516800 -> New licenses: 335
+Year: 1999, Month: 6, Timestamp: 928195200 -> Licenses: 9552
+Year: 1999, Month: 6, Timestamp: 928195200 -> New licenses: 153
+Year: 1999, Month: 7, Timestamp: 930787200 -> Licenses: 9713
+Year: 1999, Month: 7, Timestamp: 930787200 -> New licenses: 191
+Year: 1999, Month: 8, Timestamp: 933465600 -> Licenses: 9619
+Year: 1999, Month: 8, Timestamp: 933465600 -> New licenses: 32
+Year: 1999, Month: 9, Timestamp: 936144000 -> Licenses: 9812
+Year: 1999, Month: 9, Timestamp: 936144000 -> New licenses: 242
+Year: 1999, Month: 10, Timestamp: 938736000 -> Licenses: 10029
+Year: 1999, Month: 10, Timestamp: 938736000 -> New licenses: 247
+Year: 1999, Month: 11, Timestamp: 941414400 -> Licenses: 10003
+Year: 1999, Month: 11, Timestamp: 941414400 -> New licenses: 55
+Year: 1999, Month: 12, Timestamp: 944006400 -> Licenses: 10349
+Year: 1999, Month: 12, Timestamp: 944006400 -> New licenses: 403
+Year: 2000, Month: 1, Timestamp: 946684800 -> Licenses: 10479
+Year: 2000, Month: 1, Timestamp: 946684800 -> New licenses: 235
+Year: 2000, Month: 2, Timestamp: 949363200 -> Licenses: 10378
+Year: 2000, Month: 2, Timestamp: 949363200 -> New licenses: 10
+Year: 2000, Month: 3, Timestamp: 951868800 -> Licenses: 10310
+Year: 2000, Month: 3, Timestamp: 951868800 -> New licenses: 6
+Year: 2000, Month: 4, Timestamp: 954547200 -> Licenses: 10686
+Year: 2000, Month: 4, Timestamp: 954547200 -> New licenses: 450
+Year: 2000, Month: 5, Timestamp: 957139200 -> Licenses: 10928
+Year: 2000, Month: 5, Timestamp: 957139200 -> New licenses: 327
+Year: 2000, Month: 6, Timestamp: 959817600 -> Licenses: 10964
+Year: 2000, Month: 6, Timestamp: 959817600 -> New licenses: 98
+Year: 2000, Month: 7, Timestamp: 962409600 -> Licenses: 11094
+Year: 2000, Month: 7, Timestamp: 962409600 -> New licenses: 196
+Year: 2000, Month: 8, Timestamp: 965088000 -> Licenses: 11411
+Year: 2000, Month: 8, Timestamp: 965088000 -> New licenses: 365
+Year: 2000, Month: 9, Timestamp: 967766400 -> Licenses: 11371
+Year: 2000, Month: 9, Timestamp: 967766400 -> New licenses: 19
+Year: 2000, Month: 10, Timestamp: 970358400 -> Licenses: 11879
+Year: 2000, Month: 10, Timestamp: 970358400 -> New licenses: 558
+Year: 2000, Month: 11, Timestamp: 973036800 -> Licenses: 12105
+Year: 2000, Month: 11, Timestamp: 973036800 -> New licenses: 284
+Year: 2000, Month: 12, Timestamp: 975628800 -> Licenses: 12269
+Year: 2000, Month: 12, Timestamp: 975628800 -> New licenses: 213
+Year: 2001, Month: 1, Timestamp: 978307200 -> Licenses: 12454
+Year: 2001, Month: 1, Timestamp: 978307200 -> New licenses: 267
+Year: 2001, Month: 2, Timestamp: 980985600 -> Licenses: 12654
+Year: 2001, Month: 2, Timestamp: 980985600 -> New licenses: 261
+Year: 2001, Month: 3, Timestamp: 983404800 -> Licenses: 12784
+Year: 2001, Month: 3, Timestamp: 983404800 -> New licenses: 202
+Year: 2001, Month: 4, Timestamp: 986083200 -> Licenses: 12910
+Year: 2001, Month: 4, Timestamp: 986083200 -> New licenses: 198
+Year: 2001, Month: 5, Timestamp: 988675200 -> Licenses: 13257
+Year: 2001, Month: 5, Timestamp: 988675200 -> New licenses: 462
+Year: 2001, Month: 6, Timestamp: 991353600 -> Licenses: 13377
+Year: 2001, Month: 6, Timestamp: 991353600 -> New licenses: 235
+Year: 2001, Month: 7, Timestamp: 993945600 -> Licenses: 13520
+Year: 2001, Month: 7, Timestamp: 993945600 -> New licenses: 280
+Year: 2001, Month: 8, Timestamp: 996624000 -> Licenses: 13648
+Year: 2001, Month: 8, Timestamp: 996624000 -> New licenses: 352
+Year: 2001, Month: 9, Timestamp: 999302400 -> Licenses: 13823
+Year: 2001, Month: 9, Timestamp: 999302400 -> New licenses: 275
+Year: 2001, Month: 10, Timestamp: 1001894400 -> Licenses: 14008
+Year: 2001, Month: 10, Timestamp: 1001894400 -> New licenses: 295
+Year: 2001, Month: 11, Timestamp: 1004572800 -> Licenses: 14238
+Year: 2001, Month: 11, Timestamp: 1004572800 -> New licenses: 327
+Year: 2001, Month: 12, Timestamp: 1007164800 -> Licenses: 14559
+Year: 2001, Month: 12, Timestamp: 1007164800 -> New licenses: 392
+Year: 2002, Month: 1, Timestamp: 1009843200 -> Licenses: 14898
+Year: 2002, Month: 1, Timestamp: 1009843200 -> New licenses: 512
+Year: 2002, Month: 2, Timestamp: 1012521600 -> Licenses: 14939
+Year: 2002, Month: 2, Timestamp: 1012521600 -> New licenses: 136
+Year: 2002, Month: 3, Timestamp: 1014940800 -> Licenses: 15197
+Year: 2002, Month: 3, Timestamp: 1014940800 -> New licenses: 344
+Year: 2002, Month: 4, Timestamp: 1017619200 -> Licenses: 15609
+Year: 2002, Month: 4, Timestamp: 1017619200 -> New licenses: 518
+Year: 2002, Month: 5, Timestamp: 1020211200 -> Licenses: 16046
+Year: 2002, Month: 5, Timestamp: 1020211200 -> New licenses: 536
+Year: 2002, Month: 6, Timestamp: 1022889600 -> Licenses: 16138
+Year: 2002, Month: 6, Timestamp: 1022889600 -> New licenses: 175
+Year: 2002, Month: 7, Timestamp: 1025481600 -> Licenses: 16403
+Year: 2002, Month: 7, Timestamp: 1025481600 -> New licenses: 333
+Year: 2002, Month: 8, Timestamp: 1028160000 -> Licenses: 16613
+Year: 2002, Month: 8, Timestamp: 1028160000 -> New licenses: 251
+Year: 2002, Month: 9, Timestamp: 1030838400 -> Licenses: 17108
+Year: 2002, Month: 9, Timestamp: 1030838400 -> New licenses: 603
+Year: 2002, Month: 10, Timestamp: 1033430400 -> Licenses: 17211
+Year: 2002, Month: 10, Timestamp: 1033430400 -> New licenses: 182
+Year: 2002, Month: 11, Timestamp: 1036108800 -> Licenses: 17529
+Year: 2002, Month: 11, Timestamp: 1036108800 -> New licenses: 385
+Year: 2002, Month: 12, Timestamp: 1038700800 -> Licenses: 17738
+Year: 2002, Month: 12, Timestamp: 1038700800 -> New licenses: 292
+Year: 2003, Month: 1, Timestamp: 1041379200 -> Licenses: 18043
+Year: 2003, Month: 1, Timestamp: 1041379200 -> New licenses: 413
+Year: 2003, Month: 2, Timestamp: 1044057600 -> Licenses: 18117
+Year: 2003, Month: 2, Timestamp: 1044057600 -> New licenses: 123
+Year: 2003, Month: 3, Timestamp: 1046476800 -> Licenses: 18345
+Year: 2003, Month: 3, Timestamp: 1046476800 -> New licenses: 303
+Year: 2003, Month: 4, Timestamp: 1049155200 -> Licenses: 18494
+Year: 2003, Month: 4, Timestamp: 1049155200 -> New licenses: 310
+Year: 2003, Month: 5, Timestamp: 1051747200 -> Licenses: 19023
+Year: 2003, Month: 5, Timestamp: 1051747200 -> New licenses: 655
+Year: 2003, Month: 6, Timestamp: 1054425600 -> Licenses: 19328
+Year: 2003, Month: 6, Timestamp: 1054425600 -> New licenses: 407
+Year: 2003, Month: 7, Timestamp: 1057017600 -> Licenses: 19657
+Year: 2003, Month: 7, Timestamp: 1057017600 -> New licenses: 435
+Year: 2003, Month: 8, Timestamp: 1059696000 -> Licenses: 19745
+Year: 2003, Month: 8, Timestamp: 1059696000 -> New licenses: 226
+Year: 2003, Month: 9, Timestamp: 1062374400 -> Licenses: 20101
+Year: 2003, Month: 9, Timestamp: 1062374400 -> New licenses: 450
+Year: 2003, Month: 10, Timestamp: 1064966400 -> Licenses: 20368
+Year: 2003, Month: 10, Timestamp: 1064966400 -> New licenses: 347
+Year: 2003, Month: 11, Timestamp: 1067644800 -> Licenses: 20961
+Year: 2003, Month: 11, Timestamp: 1067644800 -> New licenses: 707
+Year: 2003, Month: 12, Timestamp: 1070236800 -> Licenses: 21177
+Year: 2003, Month: 12, Timestamp: 1070236800 -> New licenses: 286
+Year: 2004, Month: 1, Timestamp: 1072915200 -> Licenses: 22683
+Year: 2004, Month: 1, Timestamp: 1072915200 -> New licenses: 1609
+Year: 2004, Month: 2, Timestamp: 1075593600 -> Licenses: 22541
+Year: 2004, Month: 2, Timestamp: 1075593600 -> New licenses: 3
+Year: 2004, Month: 3, Timestamp: 1078099200 -> Licenses: 22417
+Year: 2004, Month: 3, Timestamp: 1078099200 -> New licenses: 2
+Year: 2004, Month: 4, Timestamp: 1080777600 -> Licenses: 22381
+Year: 2004, Month: 4, Timestamp: 1080777600 -> New licenses: 0
+Year: 2004, Month: 5, Timestamp: 1083369600 -> Licenses: 22269
+Year: 2004, Month: 5, Timestamp: 1083369600 -> New licenses: 0
+Year: 2004, Month: 6, Timestamp: 1086048000 -> Licenses: 22185
+Year: 2004, Month: 6, Timestamp: 1086048000 -> New licenses: 0
+Year: 2004, Month: 7, Timestamp: 1088640000 -> Licenses: 22101
+Year: 2004, Month: 7, Timestamp: 1088640000 -> New licenses: 0
+Year: 2004, Month: 8, Timestamp: 1091318400 -> Licenses: 22049
+Year: 2004, Month: 8, Timestamp: 1091318400 -> New licenses: 0
+Year: 2004, Month: 9, Timestamp: 1093996800 -> Licenses: 21959
+Year: 2004, Month: 9, Timestamp: 1093996800 -> New licenses: 0
+Year: 2004, Month: 10, Timestamp: 1096588800 -> Licenses: 21828
+Year: 2004, Month: 10, Timestamp: 1096588800 -> New licenses: 0
+Year: 2004, Month: 11, Timestamp: 1099267200 -> Licenses: 21763
+Year: 2004, Month: 11, Timestamp: 1099267200 -> New licenses: 0
+Year: 2004, Month: 12, Timestamp: 1101859200 -> Licenses: 21603
+Year: 2004, Month: 12, Timestamp: 1101859200 -> New licenses: 1
+Year: 2005, Month: 1, Timestamp: 1104537600 -> Licenses: 21485
+Year: 2005, Month: 1, Timestamp: 1104537600 -> New licenses: 0
+Year: 2005, Month: 2, Timestamp: 1107216000 -> Licenses: 21454
+Year: 2005, Month: 2, Timestamp: 1107216000 -> New licenses: 0
+Year: 2005, Month: 3, Timestamp: 1109635200 -> Licenses: 21430
+Year: 2005, Month: 3, Timestamp: 1109635200 -> New licenses: 0
+Year: 2005, Month: 4, Timestamp: 1112313600 -> Licenses: 21292
+Year: 2005, Month: 4, Timestamp: 1112313600 -> New licenses: 172
+Year: 2005, Month: 5, Timestamp: 1114905600 -> Licenses: 21302
+Year: 2005, Month: 5, Timestamp: 1114905600 -> New licenses: 345
+Year: 2005, Month: 6, Timestamp: 1117584000 -> Licenses: 21582
+Year: 2005, Month: 6, Timestamp: 1117584000 -> New licenses: 539
+Year: 2005, Month: 7, Timestamp: 1120176000 -> Licenses: 21840
+Year: 2005, Month: 7, Timestamp: 1120176000 -> New licenses: 664
+Year: 2005, Month: 8, Timestamp: 1122854400 -> Licenses: 22287
+Year: 2005, Month: 8, Timestamp: 1122854400 -> New licenses: 1089
+Year: 2005, Month: 9, Timestamp: 1125532800 -> Licenses: 22533
+Year: 2005, Month: 9, Timestamp: 1125532800 -> New licenses: 363
+Year: 2005, Month: 10, Timestamp: 1128124800 -> Licenses: 22800
+Year: 2005, Month: 10, Timestamp: 1128124800 -> New licenses: 923
+Year: 2005, Month: 11, Timestamp: 1130803200 -> Licenses: 23583
+Year: 2005, Month: 11, Timestamp: 1130803200 -> New licenses: 1111
+Year: 2005, Month: 12, Timestamp: 1133395200 -> Licenses: 23842
+Year: 2005, Month: 12, Timestamp: 1133395200 -> New licenses: 476
+Year: 2006, Month: 1, Timestamp: 1136073600 -> Licenses: 24754
+Year: 2006, Month: 1, Timestamp: 1136073600 -> New licenses: 1171
+Year: 2006, Month: 2, Timestamp: 1138752000 -> Licenses: 25065
+Year: 2006, Month: 2, Timestamp: 1138752000 -> New licenses: 573
+Year: 2006, Month: 3, Timestamp: 1141171200 -> Licenses: 25415
+Year: 2006, Month: 3, Timestamp: 1141171200 -> New licenses: 636
+Year: 2006, Month: 4, Timestamp: 1143849600 -> Licenses: 25742
+Year: 2006, Month: 4, Timestamp: 1143849600 -> New licenses: 613
+Year: 2006, Month: 5, Timestamp: 1146441600 -> Licenses: 26263
+Year: 2006, Month: 5, Timestamp: 1146441600 -> New licenses: 1093
+Year: 2006, Month: 6, Timestamp: 1149120000 -> Licenses: 26517
+Year: 2006, Month: 6, Timestamp: 1149120000 -> New licenses: 603
+Year: 2006, Month: 7, Timestamp: 1151712000 -> Licenses: 26763
+Year: 2006, Month: 7, Timestamp: 1151712000 -> New licenses: 554
+Year: 2006, Month: 8, Timestamp: 1154390400 -> Licenses: 27492
+Year: 2006, Month: 8, Timestamp: 1154390400 -> New licenses: 1160
+Year: 2006, Month: 9, Timestamp: 1157068800 -> Licenses: 27807
+Year: 2006, Month: 9, Timestamp: 1157068800 -> New licenses: 729
+Year: 2006, Month: 10, Timestamp: 1159660800 -> Licenses: 27983
+Year: 2006, Month: 10, Timestamp: 1159660800 -> New licenses: 567
+Year: 2006, Month: 11, Timestamp: 1162339200 -> Licenses: 28136
+Year: 2006, Month: 11, Timestamp: 1162339200 -> New licenses: 642
+Year: 2006, Month: 12, Timestamp: 1164931200 -> Licenses: 28298
+Year: 2006, Month: 12, Timestamp: 1164931200 -> New licenses: 774
+Year: 2007, Month: 1, Timestamp: 1167609600 -> Licenses: 28288
+Year: 2007, Month: 1, Timestamp: 1167609600 -> New licenses: 1177
+Year: 2007, Month: 2, Timestamp: 1170288000 -> Licenses: 28379
+Year: 2007, Month: 2, Timestamp: 1170288000 -> New licenses: 326
+Year: 2007, Month: 3, Timestamp: 1172707200 -> Licenses: 28513
+Year: 2007, Month: 3, Timestamp: 1172707200 -> New licenses: 589
+Year: 2007, Month: 4, Timestamp: 1175385600 -> Licenses: 29287
+Year: 2007, Month: 4, Timestamp: 1175385600 -> New licenses: 1510
+Year: 2007, Month: 5, Timestamp: 1177977600 -> Licenses: 29043
+Year: 2007, Month: 5, Timestamp: 1177977600 -> New licenses: 417
+Year: 2007, Month: 6, Timestamp: 1180656000 -> Licenses: 29690
+Year: 2007, Month: 6, Timestamp: 1180656000 -> New licenses: 891
+Year: 2007, Month: 7, Timestamp: 1183248000 -> Licenses: 30382
+Year: 2007, Month: 7, Timestamp: 1183248000 -> New licenses: 1078
+Year: 2007, Month: 8, Timestamp: 1185926400 -> Licenses: 30242
+Year: 2007, Month: 8, Timestamp: 1185926400 -> New licenses: 48
+Year: 2007, Month: 9, Timestamp: 1188604800 -> Licenses: 30440
+Year: 2007, Month: 9, Timestamp: 1188604800 -> New licenses: 874
+Year: 2007, Month: 10, Timestamp: 1191196800 -> Licenses: 30661
+Year: 2007, Month: 10, Timestamp: 1191196800 -> New licenses: 525
+Year: 2007, Month: 11, Timestamp: 1193875200 -> Licenses: 31128
+Year: 2007, Month: 11, Timestamp: 1193875200 -> New licenses: 823
+Year: 2007, Month: 12, Timestamp: 1196467200 -> Licenses: 31588
+Year: 2007, Month: 12, Timestamp: 1196467200 -> New licenses: 755
+Year: 2008, Month: 1, Timestamp: 1199145600 -> Licenses: 32457
+Year: 2008, Month: 1, Timestamp: 1199145600 -> New licenses: 1337
+Year: 2008, Month: 2, Timestamp: 1201824000 -> Licenses: 32559
+Year: 2008, Month: 2, Timestamp: 1201824000 -> New licenses: 324
+Year: 2008, Month: 3, Timestamp: 1204329600 -> Licenses: 32967
+Year: 2008, Month: 3, Timestamp: 1204329600 -> New licenses: 654
+Year: 2008, Month: 4, Timestamp: 1207008000 -> Licenses: 33307
+Year: 2008, Month: 4, Timestamp: 1207008000 -> New licenses: 653
+Year: 2008, Month: 5, Timestamp: 1209600000 -> Licenses: 33481
+Year: 2008, Month: 5, Timestamp: 1209600000 -> New licenses: 816
+Year: 2008, Month: 6, Timestamp: 1212278400 -> Licenses: 34077
+Year: 2008, Month: 6, Timestamp: 1212278400 -> New licenses: 953
+Year: 2008, Month: 7, Timestamp: 1214870400 -> Licenses: 34348
+Year: 2008, Month: 7, Timestamp: 1214870400 -> New licenses: 720
+Year: 2008, Month: 8, Timestamp: 1217548800 -> Licenses: 34172
+Year: 2008, Month: 8, Timestamp: 1217548800 -> New licenses: 83
+Year: 2008, Month: 9, Timestamp: 1220227200 -> Licenses: 34239
+Year: 2008, Month: 9, Timestamp: 1220227200 -> New licenses: 474
+Year: 2008, Month: 10, Timestamp: 1222819200 -> Licenses: 35489
+Year: 2008, Month: 10, Timestamp: 1222819200 -> New licenses: 1566
+Year: 2008, Month: 11, Timestamp: 1225497600 -> Licenses: 35665
+Year: 2008, Month: 11, Timestamp: 1225497600 -> New licenses: 737
+Year: 2008, Month: 12, Timestamp: 1228089600 -> Licenses: 36252
+Year: 2008, Month: 12, Timestamp: 1228089600 -> New licenses: 777
+Year: 2009, Month: 1, Timestamp: 1230768000 -> Licenses: 36509
+Year: 2009, Month: 1, Timestamp: 1230768000 -> New licenses: 867
+Year: 2009, Month: 2, Timestamp: 1233446400 -> Licenses: 36851
+Year: 2009, Month: 2, Timestamp: 1233446400 -> New licenses: 392
+Year: 2009, Month: 3, Timestamp: 1235865600 -> Licenses: 37167
+Year: 2009, Month: 3, Timestamp: 1235865600 -> New licenses: 387
+Year: 2009, Month: 4, Timestamp: 1238544000 -> Licenses: 37368
+Year: 2009, Month: 4, Timestamp: 1238544000 -> New licenses: 261
+Year: 2009, Month: 5, Timestamp: 1241136000 -> Licenses: 38021
+Year: 2009, Month: 5, Timestamp: 1241136000 -> New licenses: 742
+Year: 2009, Month: 6, Timestamp: 1243814400 -> Licenses: 38394
+Year: 2009, Month: 6, Timestamp: 1243814400 -> New licenses: 426
+Year: 2009, Month: 7, Timestamp: 1246406400 -> Licenses: 38769
+Year: 2009, Month: 7, Timestamp: 1246406400 -> New licenses: 440
+Year: 2009, Month: 8, Timestamp: 1249084800 -> Licenses: 39150
+Year: 2009, Month: 8, Timestamp: 1249084800 -> New licenses: 455
+Year: 2009, Month: 9, Timestamp: 1251763200 -> Licenses: 39990
+Year: 2009, Month: 9, Timestamp: 1251763200 -> New licenses: 910
+Year: 2009, Month: 10, Timestamp: 1254355200 -> Licenses: 40558
+Year: 2009, Month: 10, Timestamp: 1254355200 -> New licenses: 682
+Year: 2009, Month: 11, Timestamp: 1257033600 -> Licenses: 40956
+Year: 2009, Month: 11, Timestamp: 1257033600 -> New licenses: 461
+Year: 2009, Month: 12, Timestamp: 1259625600 -> Licenses: 41503
+Year: 2009, Month: 12, Timestamp: 1259625600 -> New licenses: 627
+Year: 2010, Month: 1, Timestamp: 1262304000 -> Licenses: 42306
+Year: 2010, Month: 1, Timestamp: 1262304000 -> New licenses: 940
+Year: 2010, Month: 2, Timestamp: 1264982400 -> Licenses: 42558
+Year: 2010, Month: 2, Timestamp: 1264982400 -> New licenses: 274
+Year: 2010, Month: 3, Timestamp: 1267401600 -> Licenses: 42546
+Year: 2010, Month: 3, Timestamp: 1267401600 -> New licenses: 13
+Year: 2010, Month: 4, Timestamp: 1270080000 -> Licenses: 43157
+Year: 2010, Month: 4, Timestamp: 1270080000 -> New licenses: 830
+Year: 2010, Month: 5, Timestamp: 1272672000 -> Licenses: 43790
+Year: 2010, Month: 5, Timestamp: 1272672000 -> New licenses: 1034
+Year: 2010, Month: 6, Timestamp: 1275350400 -> Licenses: 43842
+Year: 2010, Month: 6, Timestamp: 1275350400 -> New licenses: 564
+Year: 2010, Month: 7, Timestamp: 1277942400 -> Licenses: 44366
+Year: 2010, Month: 7, Timestamp: 1277942400 -> New licenses: 1350
+Year: 2010, Month: 8, Timestamp: 1280620800 -> Licenses: 43951
+Year: 2010, Month: 8, Timestamp: 1280620800 -> New licenses: 862
+Year: 2010, Month: 9, Timestamp: 1283299200 -> Licenses: 44255
+Year: 2010, Month: 9, Timestamp: 1283299200 -> New licenses: 748
+Year: 2010, Month: 10, Timestamp: 1285891200 -> Licenses: 44282
+Year: 2010, Month: 10, Timestamp: 1285891200 -> New licenses: 1399
+Year: 2010, Month: 11, Timestamp: 1288569600 -> Licenses: 43949
+Year: 2010, Month: 11, Timestamp: 1288569600 -> New licenses: 989
+Year: 2010, Month: 12, Timestamp: 1291161600 -> Licenses: 43702
+Year: 2010, Month: 12, Timestamp: 1291161600 -> New licenses: 344
+Year: 2011, Month: 1, Timestamp: 1293840000 -> Licenses: 44219
+Year: 2011, Month: 1, Timestamp: 1293840000 -> New licenses: 2316
+Year: 2011, Month: 2, Timestamp: 1296518400 -> Licenses: 44169
+Year: 2011, Month: 2, Timestamp: 1296518400 -> New licenses: 689
+Year: 2011, Month: 3, Timestamp: 1298937600 -> Licenses: 43953
+Year: 2011, Month: 3, Timestamp: 1298937600 -> New licenses: 579
+Year: 2011, Month: 4, Timestamp: 1301616000 -> Licenses: 44035
+Year: 2011, Month: 4, Timestamp: 1301616000 -> New licenses: 1077
+Year: 2011, Month: 5, Timestamp: 1304208000 -> Licenses: 43492
+Year: 2011, Month: 5, Timestamp: 1304208000 -> New licenses: 599
+Year: 2011, Month: 6, Timestamp: 1306886400 -> Licenses: 44246
+Year: 2011, Month: 6, Timestamp: 1306886400 -> New licenses: 1649
+Year: 2011, Month: 7, Timestamp: 1309478400 -> Licenses: 43743
+Year: 2011, Month: 7, Timestamp: 1309478400 -> New licenses: 237
+Year: 2011, Month: 8, Timestamp: 1312156800 -> Licenses: 43968
+Year: 2011, Month: 8, Timestamp: 1312156800 -> New licenses: 1706
+Year: 2011, Month: 9, Timestamp: 1314835200 -> Licenses: 43756
+Year: 2011, Month: 9, Timestamp: 1314835200 -> New licenses: 631
+Year: 2011, Month: 10, Timestamp: 1317427200 -> Licenses: 44026
+Year: 2011, Month: 10, Timestamp: 1317427200 -> New licenses: 1191
+Year: 2011, Month: 11, Timestamp: 1320105600 -> Licenses: 43761
+Year: 2011, Month: 11, Timestamp: 1320105600 -> New licenses: 572
+Year: 2011, Month: 12, Timestamp: 1322697600 -> Licenses: 43914
+Year: 2011, Month: 12, Timestamp: 1322697600 -> New licenses: 1135
+Year: 2012, Month: 1, Timestamp: 1325376000 -> Licenses: 44043
+Year: 2012, Month: 1, Timestamp: 1325376000 -> New licenses: 1396
+Year: 2012, Month: 2, Timestamp: 1328054400 -> Licenses: 44181
+Year: 2012, Month: 2, Timestamp: 1328054400 -> New licenses: 664
+Year: 2012, Month: 3, Timestamp: 1330560000 -> Licenses: 44321
+Year: 2012, Month: 3, Timestamp: 1330560000 -> New licenses: 903
+Year: 2012, Month: 4, Timestamp: 1333238400 -> Licenses: 44252
+Year: 2012, Month: 4, Timestamp: 1333238400 -> New licenses: 1529
+Year: 2012, Month: 5, Timestamp: 1335830400 -> Licenses: 44240
+Year: 2012, Month: 5, Timestamp: 1335830400 -> New licenses: 528
+Year: 2012, Month: 6, Timestamp: 1338508800 -> Licenses: 44266
+Year: 2012, Month: 6, Timestamp: 1338508800 -> New licenses: 1109
+Year: 2012, Month: 7, Timestamp: 1341100800 -> Licenses: 44034
+Year: 2012, Month: 7, Timestamp: 1341100800 -> New licenses: 939
+Year: 2012, Month: 8, Timestamp: 1343779200 -> Licenses: 44353
+Year: 2012, Month: 8, Timestamp: 1343779200 -> New licenses: 652
+Year: 2012, Month: 9, Timestamp: 1346457600 -> Licenses: 44738
+Year: 2012, Month: 9, Timestamp: 1346457600 -> New licenses: 1447
+Year: 2012, Month: 10, Timestamp: 1349049600 -> Licenses: 44539
+Year: 2012, Month: 10, Timestamp: 1349049600 -> New licenses: 406
+Year: 2012, Month: 11, Timestamp: 1351728000 -> Licenses: 44768
+Year: 2012, Month: 11, Timestamp: 1351728000 -> New licenses: 1156
+Year: 2012, Month: 12, Timestamp: 1354320000 -> Licenses: 44992
+Year: 2012, Month: 12, Timestamp: 1354320000 -> New licenses: 1154
+Year: 2013, Month: 1, Timestamp: 1356998400 -> Licenses: 44608
+Year: 2013, Month: 1, Timestamp: 1356998400 -> New licenses: 1375
+Year: 2013, Month: 2, Timestamp: 1359676800 -> Licenses: 44510
+Year: 2013, Month: 2, Timestamp: 1359676800 -> New licenses: 459
+Year: 2013, Month: 3, Timestamp: 1362096000 -> Licenses: 44659
+Year: 2013, Month: 3, Timestamp: 1362096000 -> New licenses: 1029
+Year: 2013, Month: 4, Timestamp: 1364774400 -> Licenses: 44571
+Year: 2013, Month: 4, Timestamp: 1364774400 -> New licenses: 727
+Year: 2013, Month: 5, Timestamp: 1367366400 -> Licenses: 44663
+Year: 2013, Month: 5, Timestamp: 1367366400 -> New licenses: 1089
+Year: 2013, Month: 6, Timestamp: 1370044800 -> Licenses: 44273
+Year: 2013, Month: 6, Timestamp: 1370044800 -> New licenses: 578
+Year: 2013, Month: 7, Timestamp: 1372636800 -> Licenses: 44132
+Year: 2013, Month: 7, Timestamp: 1372636800 -> New licenses: 827
+Year: 2013, Month: 8, Timestamp: 1375315200 -> Licenses: 44535
+Year: 2013, Month: 8, Timestamp: 1375315200 -> New licenses: 667
+Year: 2013, Month: 9, Timestamp: 1377993600 -> Licenses: 44811
+Year: 2013, Month: 9, Timestamp: 1377993600 -> New licenses: 1076
+Year: 2013, Month: 10, Timestamp: 1380585600 -> Licenses: 44014
+Year: 2013, Month: 10, Timestamp: 1380585600 -> New licenses: 1152
+Year: 2013, Month: 11, Timestamp: 1383264000 -> Licenses: 43625
+Year: 2013, Month: 11, Timestamp: 1383264000 -> New licenses: 605
+Year: 2013, Month: 12, Timestamp: 1385856000 -> Licenses: 43583
+Year: 2013, Month: 12, Timestamp: 1385856000 -> New licenses: 956
+Year: 2014, Month: 1, Timestamp: 1388534400 -> Licenses: 43311
+Year: 2014, Month: 1, Timestamp: 1388534400 -> New licenses: 1095
+Year: 2014, Month: 2, Timestamp: 1391212800 -> Licenses: 43165
+Year: 2014, Month: 2, Timestamp: 1391212800 -> New licenses: 382
+Year: 2014, Month: 3, Timestamp: 1393632000 -> Licenses: 43167
+Year: 2014, Month: 3, Timestamp: 1393632000 -> New licenses: 537
+Year: 2014, Month: 4, Timestamp: 1396310400 -> Licenses: 43261
+Year: 2014, Month: 4, Timestamp: 1396310400 -> New licenses: 580
+Year: 2014, Month: 5, Timestamp: 1398902400 -> Licenses: 43643
+Year: 2014, Month: 5, Timestamp: 1398902400 -> New licenses: 1297
+Year: 2014, Month: 6, Timestamp: 1401580800 -> Licenses: 43769
+Year: 2014, Month: 6, Timestamp: 1401580800 -> New licenses: 692
+Year: 2014, Month: 7, Timestamp: 1404172800 -> Licenses: 44120
+Year: 2014, Month: 7, Timestamp: 1404172800 -> New licenses: 881
+Year: 2014, Month: 8, Timestamp: 1406851200 -> Licenses: 44283
+Year: 2014, Month: 8, Timestamp: 1406851200 -> New licenses: 707
+Year: 2014, Month: 9, Timestamp: 1409529600 -> Licenses: 44309
+Year: 2014, Month: 9, Timestamp: 1409529600 -> New licenses: 919
+Year: 2014, Month: 10, Timestamp: 1412121600 -> Licenses: 43875
+Year: 2014, Month: 10, Timestamp: 1412121600 -> New licenses: 328
+Year: 2014, Month: 11, Timestamp: 1414800000 -> Licenses: 44098
+Year: 2014, Month: 11, Timestamp: 1414800000 -> New licenses: 784
+Year: 2014, Month: 12, Timestamp: 1417392000 -> Licenses: 44321
+Year: 2014, Month: 12, Timestamp: 1417392000 -> New licenses: 1023
+Year: 2015, Month: 1, Timestamp: 1420070400 -> Licenses: 44304
+Year: 2015, Month: 1, Timestamp: 1420070400 -> New licenses: 1109
+Year: 2015, Month: 2, Timestamp: 1422748800 -> Licenses: 44435
+Year: 2015, Month: 2, Timestamp: 1422748800 -> New licenses: 492
+Year: 2015, Month: 3, Timestamp: 1425168000 -> Licenses: 44904
+Year: 2015, Month: 3, Timestamp: 1425168000 -> New licenses: 646
+Year: 2015, Month: 4, Timestamp: 1427846400 -> Licenses: 45594
+Year: 2015, Month: 4, Timestamp: 1427846400 -> New licenses: 1605
+Year: 2015, Month: 5, Timestamp: 1430438400 -> Licenses: 45601
+Year: 2015, Month: 5, Timestamp: 1430438400 -> New licenses: 1121
+Year: 2015, Month: 6, Timestamp: 1433116800 -> Licenses: 45424
+Year: 2015, Month: 6, Timestamp: 1433116800 -> New licenses: 421
+Year: 2015, Month: 7, Timestamp: 1435708800 -> Licenses: 45702
+Year: 2015, Month: 7, Timestamp: 1435708800 -> New licenses: 1402
+Year: 2015, Month: 8, Timestamp: 1438387200 -> Licenses: 46647
+Year: 2015, Month: 8, Timestamp: 1438387200 -> New licenses: 2295
+Year: 2015, Month: 9, Timestamp: 1441065600 -> Licenses: 46939
+Year: 2015, Month: 9, Timestamp: 1441065600 -> New licenses: 974
+Year: 2015, Month: 10, Timestamp: 1443657600 -> Licenses: 46400
+Year: 2015, Month: 10, Timestamp: 1443657600 -> New licenses: 485
+Year: 2015, Month: 11, Timestamp: 1446336000 -> Licenses: 46715
+Year: 2015, Month: 11, Timestamp: 1446336000 -> New licenses: 1573
+Year: 2015, Month: 12, Timestamp: 1448928000 -> Licenses: 46892
+Year: 2015, Month: 12, Timestamp: 1448928000 -> New licenses: 716
+Year: 2016, Month: 1, Timestamp: 1451606400 -> Licenses: 45893
+Year: 2016, Month: 1, Timestamp: 1451606400 -> New licenses: 1379
+Year: 2016, Month: 2, Timestamp: 1454284800 -> Licenses: 45606
+Year: 2016, Month: 2, Timestamp: 1454284800 -> New licenses: 398
+Year: 2016, Month: 3, Timestamp: 1456790400 -> Licenses: 45785
+Year: 2016, Month: 3, Timestamp: 1456790400 -> New licenses: 1058
+Year: 2016, Month: 4, Timestamp: 1459468800 -> Licenses: 45633
+Year: 2016, Month: 4, Timestamp: 1459468800 -> New licenses: 839
+Year: 2016, Month: 5, Timestamp: 1462060800 -> Licenses: 46419
+Year: 2016, Month: 5, Timestamp: 1462060800 -> New licenses: 1838
+Year: 2016, Month: 6, Timestamp: 1464739200 -> Licenses: 45953
+Year: 2016, Month: 6, Timestamp: 1464739200 -> New licenses: 948
+Year: 2016, Month: 7, Timestamp: 1467331200 -> Licenses: 45802
+Year: 2016, Month: 7, Timestamp: 1467331200 -> New licenses: 697
+Year: 2016, Month: 8, Timestamp: 1470009600 -> Licenses: 45285
+Year: 2016, Month: 8, Timestamp: 1470009600 -> New licenses: 1285
+Year: 2016, Month: 9, Timestamp: 1472688000 -> Licenses: 45442
+Year: 2016, Month: 9, Timestamp: 1472688000 -> New licenses: 1088
+Year: 2016, Month: 10, Timestamp: 1475280000 -> Licenses: 45045
+Year: 2016, Month: 10, Timestamp: 1475280000 -> New licenses: 776
+Year: 2016, Month: 11, Timestamp: 1477958400 -> Licenses: 44547
+Year: 2016, Month: 11, Timestamp: 1477958400 -> New licenses: 524
+Year: 2016, Month: 12, Timestamp: 1480550400 -> Licenses: 44035
+Year: 2016, Month: 12, Timestamp: 1480550400 -> New licenses: 925
+Year: 2017, Month: 1, Timestamp: 1483228800 -> Licenses: 43955
+Year: 2017, Month: 1, Timestamp: 1483228800 -> New licenses: 1466
+Year: 2017, Month: 2, Timestamp: 1485907200 -> Licenses: 43703
+Year: 2017, Month: 2, Timestamp: 1485907200 -> New licenses: 602
+Year: 2017, Month: 3, Timestamp: 1488326400 -> Licenses: 43737
+Year: 2017, Month: 3, Timestamp: 1488326400 -> New licenses: 896
+Year: 2017, Month: 4, Timestamp: 1491004800 -> Licenses: 43032
+Year: 2017, Month: 4, Timestamp: 1491004800 -> New licenses: 779
+Year: 2017, Month: 5, Timestamp: 1493596800 -> Licenses: 43394
+Year: 2017, Month: 5, Timestamp: 1493596800 -> New licenses: 1085
+Year: 2017, Month: 6, Timestamp: 1496275200 -> Licenses: 42947
+Year: 2017, Month: 6, Timestamp: 1496275200 -> New licenses: 591
+Year: 2017, Month: 7, Timestamp: 1498867200 -> Licenses: 42782
+Year: 2017, Month: 7, Timestamp: 1498867200 -> New licenses: 1000
+Year: 2017, Month: 8, Timestamp: 1501545600 -> Licenses: 43027
+Year: 2017, Month: 8, Timestamp: 1501545600 -> New licenses: 875
+Year: 2017, Month: 9, Timestamp: 1504224000 -> Licenses: 43175
+Year: 2017, Month: 9, Timestamp: 1504224000 -> New licenses: 1317
+Year: 2017, Month: 10, Timestamp: 1506816000 -> Licenses: 43214
+Year: 2017, Month: 10, Timestamp: 1506816000 -> New licenses: 601
+Year: 2017, Month: 11, Timestamp: 1509494400 -> Licenses: 43104
+Year: 2017, Month: 11, Timestamp: 1509494400 -> New licenses: 832
+Year: 2017, Month: 12, Timestamp: 1512086400 -> Licenses: 42906
+Year: 2017, Month: 12, Timestamp: 1512086400 -> New licenses: 731
+Year: 2018, Month: 1, Timestamp: 1514764800 -> Licenses: 42222
+Year: 2018, Month: 1, Timestamp: 1514764800 -> New licenses: 805
+Year: 2018, Month: 2, Timestamp: 1517443200 -> Licenses: 42032
+Year: 2018, Month: 2, Timestamp: 1517443200 -> New licenses: 335
+Year: 2018, Month: 3, Timestamp: 1519862400 -> Licenses: 42273
+Year: 2018, Month: 3, Timestamp: 1519862400 -> New licenses: 957
+Year: 2018, Month: 4, Timestamp: 1522540800 -> Licenses: 42351
+Year: 2018, Month: 4, Timestamp: 1522540800 -> New licenses: 965
+Year: 2018, Month: 5, Timestamp: 1525132800 -> Licenses: 42173
+Year: 2018, Month: 5, Timestamp: 1525132800 -> New licenses: 905
+Year: 2018, Month: 6, Timestamp: 1527811200 -> Licenses: 42119
+Year: 2018, Month: 6, Timestamp: 1527811200 -> New licenses: 822
+Year: 2018, Month: 7, Timestamp: 1530403200 -> Licenses: 42572
+Year: 2018, Month: 7, Timestamp: 1530403200 -> New licenses: 1303
+Year: 2018, Month: 8, Timestamp: 1533081600 -> Licenses: 42943
+Year: 2018, Month: 8, Timestamp: 1533081600 -> New licenses: 919
+Year: 2018, Month: 9, Timestamp: 1535760000 -> Licenses: 42643
+Year: 2018, Month: 9, Timestamp: 1535760000 -> New licenses: 353
+Year: 2018, Month: 10, Timestamp: 1538352000 -> Licenses: 42329
+Year: 2018, Month: 10, Timestamp: 1538352000 -> New licenses: 839
+Year: 2018, Month: 11, Timestamp: 1541030400 -> Licenses: 42371
+Year: 2018, Month: 11, Timestamp: 1541030400 -> New licenses: 838
+Year: 2018, Month: 12, Timestamp: 1543622400 -> Licenses: 42432
+Year: 2018, Month: 12, Timestamp: 1543622400 -> New licenses: 951
+Year: 2019, Month: 1, Timestamp: 1546300800 -> Licenses: 41971
+Year: 2019, Month: 1, Timestamp: 1546300800 -> New licenses: 691
+Year: 2019, Month: 2, Timestamp: 1548979200 -> Licenses: 41865
+Year: 2019, Month: 2, Timestamp: 1548979200 -> New licenses: 461
+Year: 2019, Month: 3, Timestamp: 1551398400 -> Licenses: 42045
+Year: 2019, Month: 3, Timestamp: 1551398400 -> New licenses: 771
+Year: 2019, Month: 4, Timestamp: 1554076800 -> Licenses: 42083
+Year: 2019, Month: 4, Timestamp: 1554076800 -> New licenses: 805
+Year: 2019, Month: 5, Timestamp: 1556668800 -> Licenses: 41605
+Year: 2019, Month: 5, Timestamp: 1556668800 -> New licenses: 576
+Year: 2019, Month: 6, Timestamp: 1559347200 -> Licenses: 41483
+Year: 2019, Month: 6, Timestamp: 1559347200 -> New licenses: 677
+Year: 2019, Month: 7, Timestamp: 1561939200 -> Licenses: 41488
+Year: 2019, Month: 7, Timestamp: 1561939200 -> New licenses: 840
+Year: 2019, Month: 8, Timestamp: 1564617600 -> Licenses: 41552
+Year: 2019, Month: 8, Timestamp: 1564617600 -> New licenses: 720
+Year: 2019, Month: 9, Timestamp: 1567296000 -> Licenses: 41297
+Year: 2019, Month: 9, Timestamp: 1567296000 -> New licenses: 720
+Year: 2019, Month: 10, Timestamp: 1569888000 -> Licenses: 41105
+Year: 2019, Month: 10, Timestamp: 1569888000 -> New licenses: 421
+Year: 2019, Month: 11, Timestamp: 1572566400 -> Licenses: 41493
+Year: 2019, Month: 11, Timestamp: 1572566400 -> New licenses: 1121
+Year: 2019, Month: 12, Timestamp: 1575158400 -> Licenses: 41059
+Year: 2019, Month: 12, Timestamp: 1575158400 -> New licenses: 492
+Year: 2020, Month: 1, Timestamp: 1577836800 -> Licenses: 40829
+Year: 2020, Month: 1, Timestamp: 1577836800 -> New licenses: 1028
+Year: 2020, Month: 2, Timestamp: 1580515200 -> Licenses: 40764
+Year: 2020, Month: 2, Timestamp: 1580515200 -> New licenses: 429
+Year: 2020, Month: 3, Timestamp: 1583020800 -> Licenses: 40966
+Year: 2020, Month: 3, Timestamp: 1583020800 -> New licenses: 806
+Year: 2020, Month: 4, Timestamp: 1585699200 -> Licenses: 40141
+Year: 2020, Month: 4, Timestamp: 1585699200 -> New licenses: 723
+Year: 2020, Month: 5, Timestamp: 1588291200 -> Licenses: 40193
+Year: 2020, Month: 5, Timestamp: 1588291200 -> New licenses: 962
+Year: 2020, Month: 6, Timestamp: 1590969600 -> Licenses: 39994
+Year: 2020, Month: 6, Timestamp: 1590969600 -> New licenses: 180
+Year: 2020, Month: 7, Timestamp: 1593561600 -> Licenses: 39772
+Year: 2020, Month: 7, Timestamp: 1593561600 -> New licenses: 317
+Year: 2020, Month: 8, Timestamp: 1596240000 -> Licenses: 39304
+Year: 2020, Month: 8, Timestamp: 1596240000 -> New licenses: 475
+Year: 2020, Month: 9, Timestamp: 1598918400 -> Licenses: 39413
+Year: 2020, Month: 9, Timestamp: 1598918400 -> New licenses: 437
+Year: 2020, Month: 10, Timestamp: 1601510400 -> Licenses: 39516
+Year: 2020, Month: 10, Timestamp: 1601510400 -> New licenses: 482
+Year: 2020, Month: 11, Timestamp: 1604188800 -> Licenses: 39401
+Year: 2020, Month: 11, Timestamp: 1604188800 -> New licenses: 452
+Year: 2020, Month: 12, Timestamp: 1606780800 -> Licenses: 39764
+Year: 2020, Month: 12, Timestamp: 1606780800 -> New licenses: 609
+Year: 2021, Month: 1, Timestamp: 1609459200 -> Licenses: 39503
+Year: 2021, Month: 1, Timestamp: 1609459200 -> New licenses: 673
+Year: 2021, Month: 2, Timestamp: 1612137600 -> Licenses: 39009
+Year: 2021, Month: 2, Timestamp: 1612137600 -> New licenses: 0
+Year: 2021, Month: 3, Timestamp: 1614556800 -> Licenses: 38334
+Year: 2021, Month: 3, Timestamp: 1614556800 -> New licenses: 186
+Year: 2021, Month: 4, Timestamp: 1617235200 -> Licenses: 37704
+Year: 2021, Month: 4, Timestamp: 1617235200 -> New licenses: 137
+Year: 2021, Month: 5, Timestamp: 1619827200 -> Licenses: 37042
+Year: 2021, Month: 5, Timestamp: 1619827200 -> New licenses: 297
+Year: 2021, Month: 6, Timestamp: 1622505600 -> Licenses: 36452
+Year: 2021, Month: 6, Timestamp: 1622505600 -> New licenses: 170
+Year: 2021, Month: 7, Timestamp: 1625097600 -> Licenses: 35948
+Year: 2021, Month: 7, Timestamp: 1625097600 -> New licenses: 144
+Year: 2021, Month: 8, Timestamp: 1627776000 -> Licenses: 35292
+Year: 2021, Month: 8, Timestamp: 1627776000 -> New licenses: 255
+Year: 2021, Month: 9, Timestamp: 1630454400 -> Licenses: 34886
+Year: 2021, Month: 9, Timestamp: 1630454400 -> New licenses: 177
+Year: 2021, Month: 10, Timestamp: 1633046400 -> Licenses: 34556
+Year: 2021, Month: 10, Timestamp: 1633046400 -> New licenses: 142
+Year: 2021, Month: 11, Timestamp: 1635724800 -> Licenses: 34280
+Year: 2021, Month: 11, Timestamp: 1635724800 -> New licenses: 417
+Year: 2021, Month: 12, Timestamp: 1638316800 -> Licenses: 33550
+Year: 2021, Month: 12, Timestamp: 1638316800 -> New licenses: 178
+Year: 2022, Month: 1, Timestamp: 1640995200 -> Licenses: 32751
+Year: 2022, Month: 1, Timestamp: 1640995200 -> New licenses: 217
+Year: 2022, Month: 2, Timestamp: 1643673600 -> Licenses: 32478
+Year: 2022, Month: 2, Timestamp: 1643673600 -> New licenses: 134
+Year: 2022, Month: 3, Timestamp: 1646092800 -> Licenses: 32135
+Year: 2022, Month: 3, Timestamp: 1646092800 -> New licenses: 100
+Year: 2022, Month: 4, Timestamp: 1648771200 -> Licenses: 31708
+Year: 2022, Month: 4, Timestamp: 1648771200 -> New licenses: 187
+Year: 2022, Month: 5, Timestamp: 1651363200 -> Licenses: 31515
+Year: 2022, Month: 5, Timestamp: 1651363200 -> New licenses: 229
+Year: 2022, Month: 6, Timestamp: 1654041600 -> Licenses: 31250
+Year: 2022, Month: 6, Timestamp: 1654041600 -> New licenses: 145
+Year: 2022, Month: 7, Timestamp: 1656633600 -> Licenses: 30893
+Year: 2022, Month: 7, Timestamp: 1656633600 -> New licenses: 218
+Year: 2022, Month: 8, Timestamp: 1659312000 -> Licenses: 30717
+Year: 2022, Month: 8, Timestamp: 1659312000 -> New licenses: 171
+Year: 2022, Month: 9, Timestamp: 1661990400 -> Licenses: 30465
+Year: 2022, Month: 9, Timestamp: 1661990400 -> New licenses: 243
+Year: 2022, Month: 10, Timestamp: 1664582400 -> Licenses: 30459
+Year: 2022, Month: 10, Timestamp: 1664582400 -> New licenses: 265
+Year: 2022, Month: 11, Timestamp: 1667260800 -> Licenses: 30562
+Year: 2022, Month: 11, Timestamp: 1667260800 -> New licenses: 473
+Year: 2022, Month: 12, Timestamp: 1669852800 -> Licenses: 30501
+Year: 2022, Month: 12, Timestamp: 1669852800 -> New licenses: 277
+Year: 2023, Month: 1, Timestamp: 1672531200 -> Licenses: 30388
+Year: 2023, Month: 1, Timestamp: 1672531200 -> New licenses: 441
+Year: 2023, Month: 2, Timestamp: 1675209600 -> Licenses: 30332
+Year: 2023, Month: 2, Timestamp: 1675209600 -> New licenses: 292
+Year: 2023, Month: 3, Timestamp: 1677628800 -> Licenses: 30196
+Year: 2023, Month: 3, Timestamp: 1677628800 -> New licenses: 215
+Year: 2023, Month: 4, Timestamp: 1680307200 -> Licenses: 29940
+Year: 2023, Month: 4, Timestamp: 1680307200 -> New licenses: 311
+Year: 2023, Month: 5, Timestamp: 1682899200 -> Licenses: 29830
+Year: 2023, Month: 5, Timestamp: 1682899200 -> New licenses: 372
+Year: 2023, Month: 6, Timestamp: 1685577600 -> Licenses: 29749
+Year: 2023, Month: 6, Timestamp: 1685577600 -> New licenses: 433
+Year: 2023, Month: 7, Timestamp: 1688169600 -> Licenses: 29535
+Year: 2023, Month: 7, Timestamp: 1688169600 -> New licenses: 246
+Year: 2023, Month: 8, Timestamp: 1690848000 -> Licenses: 29384
+Year: 2023, Month: 8, Timestamp: 1690848000 -> New licenses: 119
+Year: 2023, Month: 9, Timestamp: 1693526400 -> Licenses: 27526
+Year: 2023, Month: 9, Timestamp: 1693526400 -> New licenses: 402
+Year: 2023, Month: 10, Timestamp: 1696118400 -> Licenses: 27483
+Year: 2023, Month: 10, Timestamp: 1696118400 -> New licenses: 505
+Year: 2023, Month: 11, Timestamp: 1698796800 -> Licenses: 27707
+Year: 2023, Month: 11, Timestamp: 1698796800 -> New licenses: 592
+Year: 2023, Month: 12, Timestamp: 1701388800 -> Licenses: 27986
+Year: 2023, Month: 12, Timestamp: 1701388800 -> New licenses: 825
+Year: 2024, Month: 1, Timestamp: 1704067200 -> Licenses: 28800
+Year: 2024, Month: 1, Timestamp: 1704067200 -> New licenses: 1455
+Year: 2024, Month: 2, Timestamp: 1706745600 -> Licenses: 29210
+Year: 2024, Month: 2, Timestamp: 1706745600 -> New licenses: 639
+Year: 2024, Month: 3, Timestamp: 1709251200 -> Licenses: 29090
+Year: 2024, Month: 3, Timestamp: 1709251200 -> New licenses: 49
+Year: 2024, Month: 4, Timestamp: 1711929600 -> Licenses: 28905
+Year: 2024, Month: 4, Timestamp: 1711929600 -> New licenses: 15
+Year: 2024, Month: 5, Timestamp: 1714521600 -> Licenses: 28587
+Year: 2024, Month: 5, Timestamp: 1714521600 -> New licenses: 37
+Year: 2024, Month: 6, Timestamp: 1717200000 -> Licenses: 28468
+Year: 2024, Month: 6, Timestamp: 1717200000 -> New licenses: 18
+Year: 2024, Month: 7, Timestamp: 1719792000 -> Licenses: 28354
+Year: 2024, Month: 7, Timestamp: 1719792000 -> New licenses: 34
+Year: 2024, Month: 8, Timestamp: 1722470400 -> Licenses: 28267
+Year: 2024, Month: 8, Timestamp: 1722470400 -> New licenses: 14
+Year: 2024, Month: 9, Timestamp: 1725148800 -> Licenses: 27533
+Year: 2024, Month: 9, Timestamp: 1725148800 -> New licenses: 24
+Year: 2024, Month: 10, Timestamp: 1727740800 -> Licenses: 27464
+Year: 2024, Month: 10, Timestamp: 1727740800 -> New licenses: 47
+Year: 2024, Month: 11, Timestamp: 1730419200 -> Licenses: 27367
+Year: 2024, Month: 11, Timestamp: 1730419200 -> New licenses: 38
+Year: 2024, Month: 12, Timestamp: 1733011200 -> Licenses: 27189
+Year: 2024, Month: 12, Timestamp: 1733011200 -> New licenses: 17
+Year: 2025, Month: 1, Timestamp: 1735689600 -> Licenses: 27044
+Year: 2025, Month: 1, Timestamp: 1735689600 -> New licenses: 31

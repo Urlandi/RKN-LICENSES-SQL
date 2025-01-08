@@ -86,8 +86,8 @@ def plot_newlicenses(db):
     for t in xy.get_xticklabels():
         t.set_horizontalalignment('right')
 
-    # pyplot.savefig('newlicenses_d.png')
-    pyplot.show()
+    pyplot.savefig('newlicenses_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
@@ -115,7 +115,7 @@ def plot_ases(db):
         date_ticks.append(prev_date.strftime("%Y %b"))
 
         holder_service_count.append(list(
-            filter(lambda services: services[0] == 699,
+            filter(lambda services: services[0] == 698,
                    history_holders_service(db, cur_timestamp)))[0][2])
 
         print("Year: {}, Month: {}, Timestamp: {} -> Holders: {}".
@@ -150,8 +150,8 @@ def plot_ases(db):
         t.set_horizontalalignment('right')
 
     pyplot.legend()
-    # pyplot.savefig('hld_ases_d.png')
-    pyplot.show()
+    pyplot.savefig('hld_ases_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
@@ -222,8 +222,8 @@ def plot_lic_services(db):
         t.set_horizontalalignment('right')
 
     pyplot.legend()
-    # pyplot.savefig('lic_services_d.png')
-    pyplot.show()
+    pyplot.savefig('lic_services_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
@@ -294,8 +294,8 @@ def plot_hld_services(db):
         t.set_horizontalalignment('right')
 
     pyplot.legend()
-    # pyplot.savefig('hld_services_d.png')
-    pyplot.show()
+    pyplot.savefig('hld_services_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
@@ -359,8 +359,8 @@ def plot_services(db):
         t.set_horizontalalignment('right')
 
 
-    # pyplot.savefig('services_d.png')
-    pyplot.show()
+    pyplot.savefig('services_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
@@ -424,8 +424,8 @@ def plot_holders(db):
         t.set_horizontalalignment('right')
 
 
-    # pyplot.savefig('holders_d.png')
-    pyplot.show()
+    pyplot.savefig('holders_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
@@ -497,8 +497,8 @@ def plot_lastlicenses(db):
         t.set_horizontalalignment('right')
 
     pyplot.legend()
-    # pyplot.savefig('lastlicenses_d.png')
-    pyplot.show()
+    pyplot.savefig('lastlicenses_d.png')
+    #pyplot.show()
     return SUCCESS_STATE
 
 
